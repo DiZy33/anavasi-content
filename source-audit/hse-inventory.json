@@ -1,0 +1,908 @@
+{
+  "inventoryVersion": 1,
+  "verifiedOn": "2026-10-30",
+  "reviewStatus": "owner_approved_with_disclosed_limits_2026-10-30",
+  "coverageStatus": "partial",
+  "olympiadId": "hse-art-history",
+  "sources": [
+    {
+      "id": "hse-art-archive",
+      "url": "https://olymp.hse.ru/mmo/tasks-arthist"
+    },
+    {
+      "id": "hse-art-preparation",
+      "url": "https://olymp.hse.ru/mmo/materials-arthist"
+    },
+    {
+      "id": "hse-official",
+      "url": "https://olymp.hse.ru/mmo/official"
+    },
+    {
+      "id": "hse-timetable-selection-round2",
+      "url": "https://olymp.hse.ru/mmo/timetable1"
+    }
+  ],
+  "materials": [
+    {
+      "id": "hse-art-2024-25-final-9-10-tasks",
+      "olympiadId": "hse-art-history",
+      "title": "История искусств — задания, 9–10 классы",
+      "academicYear": "2024/25",
+      "stage": "final",
+      "round": "single",
+      "grades": [
+        9,
+        10
+      ],
+      "regionIds": [],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "pdf",
+      "fileUrl": "https://olymp.hse.ru/mirror/pubs/share/1017225170.pdf",
+      "pages": 9,
+      "verification": "parsed_pdf",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/tasks-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-2024-25-final-9-10-combined",
+      "olympiadId": "hse-art-history",
+      "title": "История искусств — ключи и критерии, 9–10 классы",
+      "academicYear": "2024/25",
+      "stage": "final",
+      "round": "single",
+      "grades": [
+        9,
+        10
+      ],
+      "regionIds": [],
+      "kind": "combined",
+      "documentKinds": [
+        "answers",
+        "criteria"
+      ],
+      "availability": "pdf",
+      "fileUrl": "https://olymp.hse.ru/mirror/pubs/share/1021836579.pdf",
+      "pages": 5,
+      "verification": "parsed_pdf",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/tasks-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-2024-25-final-11-tasks",
+      "olympiadId": "hse-art-history",
+      "title": "История искусств — задания, 11 класс",
+      "academicYear": "2024/25",
+      "stage": "final",
+      "round": "single",
+      "grades": [
+        11
+      ],
+      "regionIds": [],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "pdf",
+      "fileUrl": "https://olymp.hse.ru/mirror/pubs/share/1017225192.pdf",
+      "pages": 9,
+      "verification": "parsed_pdf",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/tasks-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-2024-25-final-11-combined",
+      "olympiadId": "hse-art-history",
+      "title": "История искусств — ключи и критерии, 11 класс",
+      "academicYear": "2024/25",
+      "stage": "final",
+      "round": "single",
+      "grades": [
+        11
+      ],
+      "regionIds": [],
+      "kind": "combined",
+      "documentKinds": [
+        "answers",
+        "criteria"
+      ],
+      "availability": "pdf",
+      "fileUrl": "https://olymp.hse.ru/mirror/pubs/share/1021836585.pdf",
+      "pages": 5,
+      "verification": "parsed_pdf",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/tasks-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-2025-26-final-9-10-tasks",
+      "olympiadId": "hse-art-history",
+      "title": "История искусств — задания, 9–10 классы",
+      "academicYear": "2025/26",
+      "stage": "final",
+      "round": "single",
+      "grades": [
+        9,
+        10
+      ],
+      "regionIds": [],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "pdf",
+      "fileUrl": "https://olymp.hse.ru/mirror/pubs/share/1132463854.pdf",
+      "pages": 11,
+      "verification": "parsed_pdf",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/tasks-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-2025-26-final-9-10-combined",
+      "olympiadId": "hse-art-history",
+      "title": "История искусств — ключи и критерии, 9–10 классы",
+      "academicYear": "2025/26",
+      "stage": "final",
+      "round": "single",
+      "grades": [
+        9,
+        10
+      ],
+      "regionIds": [],
+      "kind": "combined",
+      "documentKinds": [
+        "answers",
+        "criteria"
+      ],
+      "availability": "pdf",
+      "fileUrl": "https://olymp.hse.ru/mirror/pubs/share/1134692621.pdf",
+      "pages": 6,
+      "verification": "parsed_pdf",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/tasks-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-2025-26-final-11-tasks",
+      "olympiadId": "hse-art-history",
+      "title": "История искусств — задания, 11 класс",
+      "academicYear": "2025/26",
+      "stage": "final",
+      "round": "single",
+      "grades": [
+        11
+      ],
+      "regionIds": [],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "pdf",
+      "fileUrl": "https://olymp.hse.ru/mirror/pubs/share/1134351144.pdf",
+      "pages": 11,
+      "verification": "parsed_pdf",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/tasks-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-2025-26-final-11-combined",
+      "olympiadId": "hse-art-history",
+      "title": "История искусств — ключи и критерии, 11 класс",
+      "academicYear": "2025/26",
+      "stage": "final",
+      "round": "single",
+      "grades": [
+        11
+      ],
+      "regionIds": [],
+      "kind": "combined",
+      "documentKinds": [
+        "answers",
+        "criteria"
+      ],
+      "availability": "pdf",
+      "fileUrl": "https://olymp.hse.ru/mirror/pubs/share/1135473263.pdf",
+      "pages": 6,
+      "verification": "parsed_pdf",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/tasks-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    }
+  ],
+  "preparationResources": [
+    {
+      "id": "hse-art-prep-999735667",
+      "academicYear": "2024/25",
+      "kind": "recommendations",
+      "grades": [
+        9,
+        10,
+        11
+      ],
+      "stage": "all",
+      "round": "all",
+      "fileUrl": "https://olymp.hse.ru/mirror/pubs/share/999735667.pdf",
+      "availability": "pdf",
+      "verification": "parsed_pdf",
+      "pages": 26,
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/materials-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-prep-969573106",
+      "academicYear": "2024/25",
+      "kind": "demo",
+      "grades": [
+        9
+      ],
+      "stage": "selection",
+      "round": "single",
+      "fileUrl": "https://olymp.hse.ru/mirror/pubs/share/969573106.pdf",
+      "availability": "pdf",
+      "verification": "header_only",
+      "reason": "Official page lists PDF; targeted range GET returned 206 application/pdf and %PDF header. Complete document was not inspected; web parser size limit or timeout.",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/materials-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-prep-969573098",
+      "academicYear": "2024/25",
+      "kind": "demo",
+      "grades": [
+        10
+      ],
+      "stage": "selection",
+      "round": "single",
+      "fileUrl": "https://olymp.hse.ru/mirror/pubs/share/969573098.pdf",
+      "availability": "pdf",
+      "verification": "header_only",
+      "reason": "Official page lists PDF; targeted range GET returned 206 application/pdf and %PDF header. Complete document was not inspected; web parser size limit or timeout.",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/materials-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-prep-969573070",
+      "academicYear": "2024/25",
+      "kind": "demo",
+      "grades": [
+        11
+      ],
+      "stage": "selection",
+      "round": "single",
+      "fileUrl": "https://olymp.hse.ru/mirror/pubs/share/969573070.pdf",
+      "availability": "pdf",
+      "verification": "header_only",
+      "reason": "Official page lists PDF; targeted range GET returned 206 application/pdf and %PDF header. Complete document was not inspected; web parser size limit or timeout.",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/materials-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-prep-999735555",
+      "academicYear": "2024/25",
+      "kind": "demo",
+      "grades": [
+        9
+      ],
+      "stage": "final",
+      "round": "single",
+      "fileUrl": "https://olymp.hse.ru/mirror/pubs/share/999735555.pdf",
+      "availability": "pdf",
+      "verification": "parsed_pdf",
+      "pages": 7,
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/materials-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-prep-999735568",
+      "academicYear": "2024/25",
+      "kind": "demo",
+      "grades": [
+        10
+      ],
+      "stage": "final",
+      "round": "single",
+      "fileUrl": "https://olymp.hse.ru/mirror/pubs/share/999735568.pdf",
+      "availability": "pdf",
+      "verification": "parsed_pdf",
+      "pages": 7,
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/materials-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-prep-999735571",
+      "academicYear": "2024/25",
+      "kind": "demo",
+      "grades": [
+        11
+      ],
+      "stage": "final",
+      "round": "single",
+      "fileUrl": "https://olymp.hse.ru/mirror/pubs/share/999735571.pdf",
+      "availability": "pdf",
+      "verification": "parsed_pdf",
+      "pages": 7,
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/materials-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-prep-1086968476",
+      "academicYear": "2025/26",
+      "kind": "recommendations",
+      "grades": [
+        9,
+        10,
+        11
+      ],
+      "stage": "all",
+      "round": "all",
+      "fileUrl": "https://olymp.hse.ru/mirror/pubs/share/1086968476.pdf",
+      "availability": "pdf",
+      "verification": "parsed_pdf",
+      "pages": 26,
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/materials-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-prep-1089371246",
+      "academicYear": "2025/26",
+      "kind": "demo",
+      "grades": [
+        9
+      ],
+      "stage": "selection",
+      "round": "single",
+      "fileUrl": "https://olymp.hse.ru/mirror/pubs/share/1089371246.pdf",
+      "availability": "pdf",
+      "verification": "header_only",
+      "reason": "Official page lists PDF; targeted range GET returned 206 application/pdf and %PDF header. Complete document was not inspected; web parser size limit or timeout.",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/materials-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-prep-1089371257",
+      "academicYear": "2025/26",
+      "kind": "demo",
+      "grades": [
+        10
+      ],
+      "stage": "selection",
+      "round": "single",
+      "fileUrl": "https://olymp.hse.ru/mirror/pubs/share/1089371257.pdf",
+      "availability": "pdf",
+      "verification": "header_only",
+      "reason": "Official page lists PDF; targeted range GET returned 206 application/pdf and %PDF header. Complete document was not inspected; web parser size limit or timeout.",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/materials-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-prep-1089371291",
+      "academicYear": "2025/26",
+      "kind": "demo",
+      "grades": [
+        11
+      ],
+      "stage": "selection",
+      "round": "single",
+      "fileUrl": "https://olymp.hse.ru/mirror/pubs/share/1089371291.pdf",
+      "availability": "pdf",
+      "verification": "header_only",
+      "reason": "Official page lists PDF; targeted range GET returned 206 application/pdf and %PDF header. Complete document was not inspected; web parser size limit or timeout.",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/materials-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-prep-1097492662",
+      "academicYear": "2025/26",
+      "kind": "demo",
+      "grades": [
+        9,
+        10
+      ],
+      "stage": "final",
+      "round": "single",
+      "fileUrl": "https://olymp.hse.ru/mirror/pubs/share/1097492662.pdf",
+      "availability": "pdf",
+      "verification": "parsed_pdf",
+      "pages": 9,
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/materials-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-prep-1097492674",
+      "academicYear": "2025/26",
+      "kind": "demo",
+      "grades": [
+        11
+      ],
+      "stage": "final",
+      "round": "single",
+      "fileUrl": "https://olymp.hse.ru/mirror/pubs/share/1097492674.pdf",
+      "availability": "pdf",
+      "verification": "parsed_pdf",
+      "pages": 9,
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/materials-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-prep-1201096973",
+      "academicYear": "2026/27",
+      "kind": "recommendations",
+      "grades": [
+        9,
+        10,
+        11
+      ],
+      "stage": "all",
+      "round": "all",
+      "fileUrl": "https://olymp.hse.ru/mirror/pubs/share/1201096973.pdf",
+      "availability": "pdf",
+      "verification": "parsed_pdf",
+      "pages": 26,
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/materials-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-prep-1191534605",
+      "academicYear": "2026/27",
+      "kind": "demo",
+      "grades": [
+        9,
+        10
+      ],
+      "stage": "selection",
+      "round": "1",
+      "fileUrl": "https://olymp.hse.ru/mirror/pubs/share/1191534605.pdf",
+      "availability": "pdf",
+      "verification": "parsed_pdf",
+      "pages": 14,
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/materials-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-prep-1191534615",
+      "academicYear": "2026/27",
+      "kind": "demo",
+      "grades": [
+        11
+      ],
+      "stage": "selection",
+      "round": "1",
+      "fileUrl": "https://olymp.hse.ru/mirror/pubs/share/1191534615.pdf",
+      "availability": "pdf",
+      "verification": "header_only",
+      "reason": "Official page lists PDF; targeted range GET returned 206 application/pdf and %PDF header. Complete document was not inspected; web parser size limit or timeout.",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/materials-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-prep-1201147508",
+      "academicYear": "2026/27",
+      "kind": "demo",
+      "grades": [
+        9
+      ],
+      "stage": "selection",
+      "round": "2",
+      "fileUrl": "https://olymp.hse.ru/mirror/pubs/share/1201147508.pdf",
+      "availability": "pdf",
+      "verification": "header_only",
+      "reason": "Official page lists PDF; targeted range GET returned 206 application/pdf and %PDF header. Complete document was not inspected; web parser size limit or timeout.",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/materials-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-prep-1201147518",
+      "academicYear": "2026/27",
+      "kind": "demo",
+      "grades": [
+        10
+      ],
+      "stage": "selection",
+      "round": "2",
+      "fileUrl": "https://olymp.hse.ru/mirror/pubs/share/1201147518.pdf",
+      "availability": "pdf",
+      "verification": "header_only",
+      "reason": "Official page lists PDF; targeted range GET returned 206 application/pdf and %PDF header. Complete document was not inspected; web parser size limit or timeout.",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/materials-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-prep-1201155597",
+      "academicYear": "2026/27",
+      "kind": "demo",
+      "grades": [
+        11
+      ],
+      "stage": "selection",
+      "round": "2",
+      "fileUrl": "https://olymp.hse.ru/mirror/pubs/share/1201155597.pdf",
+      "availability": "pdf",
+      "verification": "header_only",
+      "reason": "Official page lists PDF; targeted range GET returned 206 application/pdf and %PDF header. Complete document was not inspected; web parser size limit or timeout.",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/materials-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    }
+  ],
+  "gaps": [
+    {
+      "id": "hse-art-2024-25-selection-9-tasks",
+      "olympiadId": "hse-art-history",
+      "academicYear": "2024/25",
+      "stage": "selection",
+      "round": "single",
+      "grades": [
+        9
+      ],
+      "regionIds": [],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "unpublished",
+      "reason": "Actual selection-stage file not listed on audited official profile archive/preparation pages; no assertion that no copy exists elsewhere. Demo is not a substitute.",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/tasks-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-2024-25-selection-9-combined",
+      "olympiadId": "hse-art-history",
+      "academicYear": "2024/25",
+      "stage": "selection",
+      "round": "single",
+      "grades": [
+        9
+      ],
+      "regionIds": [],
+      "kind": "combined",
+      "documentKinds": [
+        "answers",
+        "criteria"
+      ],
+      "availability": "unpublished",
+      "reason": "Actual selection-stage file not listed on audited official profile archive/preparation pages; no assertion that no copy exists elsewhere. Demo is not a substitute.",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/tasks-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-2024-25-selection-10-tasks",
+      "olympiadId": "hse-art-history",
+      "academicYear": "2024/25",
+      "stage": "selection",
+      "round": "single",
+      "grades": [
+        10
+      ],
+      "regionIds": [],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "unpublished",
+      "reason": "Actual selection-stage file not listed on audited official profile archive/preparation pages; no assertion that no copy exists elsewhere. Demo is not a substitute.",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/tasks-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-2024-25-selection-10-combined",
+      "olympiadId": "hse-art-history",
+      "academicYear": "2024/25",
+      "stage": "selection",
+      "round": "single",
+      "grades": [
+        10
+      ],
+      "regionIds": [],
+      "kind": "combined",
+      "documentKinds": [
+        "answers",
+        "criteria"
+      ],
+      "availability": "unpublished",
+      "reason": "Actual selection-stage file not listed on audited official profile archive/preparation pages; no assertion that no copy exists elsewhere. Demo is not a substitute.",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/tasks-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-2024-25-selection-11-tasks",
+      "olympiadId": "hse-art-history",
+      "academicYear": "2024/25",
+      "stage": "selection",
+      "round": "single",
+      "grades": [
+        11
+      ],
+      "regionIds": [],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "unpublished",
+      "reason": "Actual selection-stage file not listed on audited official profile archive/preparation pages; no assertion that no copy exists elsewhere. Demo is not a substitute.",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/tasks-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-2024-25-selection-11-combined",
+      "olympiadId": "hse-art-history",
+      "academicYear": "2024/25",
+      "stage": "selection",
+      "round": "single",
+      "grades": [
+        11
+      ],
+      "regionIds": [],
+      "kind": "combined",
+      "documentKinds": [
+        "answers",
+        "criteria"
+      ],
+      "availability": "unpublished",
+      "reason": "Actual selection-stage file not listed on audited official profile archive/preparation pages; no assertion that no copy exists elsewhere. Demo is not a substitute.",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/tasks-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-2025-26-selection-9-tasks",
+      "olympiadId": "hse-art-history",
+      "academicYear": "2025/26",
+      "stage": "selection",
+      "round": "single",
+      "grades": [
+        9
+      ],
+      "regionIds": [],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "unpublished",
+      "reason": "Actual selection-stage file not listed on audited official profile archive/preparation pages; no assertion that no copy exists elsewhere. Demo is not a substitute.",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/tasks-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-2025-26-selection-9-combined",
+      "olympiadId": "hse-art-history",
+      "academicYear": "2025/26",
+      "stage": "selection",
+      "round": "single",
+      "grades": [
+        9
+      ],
+      "regionIds": [],
+      "kind": "combined",
+      "documentKinds": [
+        "answers",
+        "criteria"
+      ],
+      "availability": "unpublished",
+      "reason": "Actual selection-stage file not listed on audited official profile archive/preparation pages; no assertion that no copy exists elsewhere. Demo is not a substitute.",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/tasks-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-2025-26-selection-10-tasks",
+      "olympiadId": "hse-art-history",
+      "academicYear": "2025/26",
+      "stage": "selection",
+      "round": "single",
+      "grades": [
+        10
+      ],
+      "regionIds": [],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "unpublished",
+      "reason": "Actual selection-stage file not listed on audited official profile archive/preparation pages; no assertion that no copy exists elsewhere. Demo is not a substitute.",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/tasks-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-2025-26-selection-10-combined",
+      "olympiadId": "hse-art-history",
+      "academicYear": "2025/26",
+      "stage": "selection",
+      "round": "single",
+      "grades": [
+        10
+      ],
+      "regionIds": [],
+      "kind": "combined",
+      "documentKinds": [
+        "answers",
+        "criteria"
+      ],
+      "availability": "unpublished",
+      "reason": "Actual selection-stage file not listed on audited official profile archive/preparation pages; no assertion that no copy exists elsewhere. Demo is not a substitute.",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/tasks-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-2025-26-selection-11-tasks",
+      "olympiadId": "hse-art-history",
+      "academicYear": "2025/26",
+      "stage": "selection",
+      "round": "single",
+      "grades": [
+        11
+      ],
+      "regionIds": [],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "unpublished",
+      "reason": "Actual selection-stage file not listed on audited official profile archive/preparation pages; no assertion that no copy exists elsewhere. Demo is not a substitute.",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/tasks-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-2025-26-selection-11-combined",
+      "olympiadId": "hse-art-history",
+      "academicYear": "2025/26",
+      "stage": "selection",
+      "round": "single",
+      "grades": [
+        11
+      ],
+      "regionIds": [],
+      "kind": "combined",
+      "documentKinds": [
+        "answers",
+        "criteria"
+      ],
+      "availability": "unpublished",
+      "reason": "Actual selection-stage file not listed on audited official profile archive/preparation pages; no assertion that no copy exists elsewhere. Demo is not a substitute.",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/tasks-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    }
+  ],
+  "currentSeason": {
+    "academicYear": "2026/27",
+    "events": [
+      {
+        "id": "hse-art-2026-27-selection-2",
+        "title": "История искусств: 2 тур отборочного этапа",
+        "stage": "selection",
+        "round": "2",
+        "grades": [
+          9,
+          10,
+          11
+        ],
+        "regionIds": [],
+        "date": "2026-11-22",
+        "time": "09:00",
+        "utcOffset": "+03:00",
+        "zoneLabel": "Московское время",
+        "durationMinutes": 45,
+        "evidence": {
+          "sourceUrl": "https://olymp.hse.ru/mmo/timetable1",
+          "verifiedOn": "2026-10-30"
+        }
+      },
+      {
+        "id": "hse-2026-27-final-window",
+        "title": "Высшая проба: общее окно заключительного этапа",
+        "stage": "final",
+        "dateStart": "2027-02-05",
+        "dateEnd": "2027-02-15",
+        "datePrecision": "window",
+        "subjectExactDateVerified": false,
+        "regionIds": [],
+        "evidence": {
+          "sourceUrl": "https://olymp.hse.ru/mmo/",
+          "verifiedOn": "2026-10-30"
+        }
+      }
+    ],
+    "regulations": [
+      {
+        "fileUrl": "https://olymp.hse.ru/mirror/pubs/share/1177293691.pdf",
+        "kind": "position",
+        "updatedOn": "2026-05-07"
+      },
+      {
+        "fileUrl": "https://olymp.hse.ru/mirror/pubs/share/1177293678.pdf",
+        "kind": "regulation",
+        "updatedOn": "2026-05-07"
+      }
+    ],
+    "gaps": [
+      {
+        "stage": "final",
+        "kind": "demo",
+        "availability": "unpublished",
+        "reason": "Current-season final demo column on preparation page is empty.",
+        "evidence": {
+          "sourceUrl": "https://olymp.hse.ru/mmo/materials-arthist",
+          "verifiedOn": "2026-10-30"
+        }
+      }
+    ]
+  },
+  "limitations": [
+    "Not a complete historical selection-task archive: actual selection PDFs were not established.",
+    "Header-only preparation checks are not complete content/download or Android/owner-network verification.",
+    "No organizer crawler, participant results, or third-party mirrors used."
+  ]
+}

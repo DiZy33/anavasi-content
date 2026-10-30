@@ -1,0 +1,4054 @@
+{
+  "formatVersion": 1,
+  "releaseVersion": 1,
+  "verifiedOn": "2026-10-30",
+  "regions": [
+    {
+      "id": "ru-50",
+      "title": "Московская область"
+    },
+    {
+      "id": "ru-47",
+      "title": "Ленинградская область"
+    },
+    {
+      "id": "ru-33",
+      "title": "Владимирская область"
+    }
+  ],
+  "coverage": [
+    {
+      "regionId": "ru-50",
+      "status": "partial",
+      "message": "Часть школьных файлов недоступна при проверке; некоторые документы опубликованы в DOCX/ZIP. Общие материалы сохранены.",
+      "evidence": {
+        "sourceUrl": "https://olympmo.ru/olympiad-tasks.html",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "regionId": "ru-47",
+      "status": "partial",
+      "message": "Материалы находятся в облачных папках/архивах. Постоянные прямые ссылки на PDF не подтверждены; состав архивов 2024/25 не проверен. Общие материалы сохранены.",
+      "evidence": {
+        "sourceUrl": "https://center-intellect.ru/vsosh/munitsipalnyy-etap/zadaniya-proshlykh-let/",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "regionId": "ru-33",
+      "status": "partial",
+      "message": "Локальные задания двух архивных лет не найдены на проверенных страницах. Доступны общие материалы и ссылки организатора; местная подборка неполна.",
+      "evidence": {
+        "sourceUrl": "https://cpod.viro33.ru/nashi-meropriyatiya/olimpiady/",
+        "verifiedOn": "2026-10-30"
+      }
+    }
+  ],
+  "olympiads": [
+    {
+      "id": "vso-art",
+      "title": "ВсОШ по искусству (МХК)",
+      "grades": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-history",
+      "title": "«Высшая проба» по истории искусств",
+      "grades": [
+        9,
+        10,
+        11
+      ],
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/tasks-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    }
+  ],
+  "materials": [
+    {
+      "id": "hse-art-2024-25-final-9-10-tasks",
+      "olympiadId": "hse-art-history",
+      "title": "История искусств — задания, 9–10 классы",
+      "academicYear": "2024/25",
+      "stage": "final",
+      "round": "single",
+      "grades": [
+        9,
+        10
+      ],
+      "regionIds": [],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "pdf",
+      "fileUrl": "https://olymp.hse.ru/mirror/pubs/share/1017225170.pdf",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/tasks-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-2024-25-final-9-10-combined",
+      "olympiadId": "hse-art-history",
+      "title": "История искусств — ключи и критерии, 9–10 классы",
+      "academicYear": "2024/25",
+      "stage": "final",
+      "round": "single",
+      "grades": [
+        9,
+        10
+      ],
+      "regionIds": [],
+      "kind": "combined",
+      "documentKinds": [
+        "answers",
+        "criteria"
+      ],
+      "availability": "pdf",
+      "fileUrl": "https://olymp.hse.ru/mirror/pubs/share/1021836579.pdf",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/tasks-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-2024-25-final-11-tasks",
+      "olympiadId": "hse-art-history",
+      "title": "История искусств — задания, 11 класс",
+      "academicYear": "2024/25",
+      "stage": "final",
+      "round": "single",
+      "grades": [
+        11
+      ],
+      "regionIds": [],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "pdf",
+      "fileUrl": "https://olymp.hse.ru/mirror/pubs/share/1017225192.pdf",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/tasks-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-2024-25-final-11-combined",
+      "olympiadId": "hse-art-history",
+      "title": "История искусств — ключи и критерии, 11 класс",
+      "academicYear": "2024/25",
+      "stage": "final",
+      "round": "single",
+      "grades": [
+        11
+      ],
+      "regionIds": [],
+      "kind": "combined",
+      "documentKinds": [
+        "answers",
+        "criteria"
+      ],
+      "availability": "pdf",
+      "fileUrl": "https://olymp.hse.ru/mirror/pubs/share/1021836585.pdf",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/tasks-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-2025-26-final-9-10-tasks",
+      "olympiadId": "hse-art-history",
+      "title": "История искусств — задания, 9–10 классы",
+      "academicYear": "2025/26",
+      "stage": "final",
+      "round": "single",
+      "grades": [
+        9,
+        10
+      ],
+      "regionIds": [],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "pdf",
+      "fileUrl": "https://olymp.hse.ru/mirror/pubs/share/1132463854.pdf",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/tasks-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-2025-26-final-9-10-combined",
+      "olympiadId": "hse-art-history",
+      "title": "История искусств — ключи и критерии, 9–10 классы",
+      "academicYear": "2025/26",
+      "stage": "final",
+      "round": "single",
+      "grades": [
+        9,
+        10
+      ],
+      "regionIds": [],
+      "kind": "combined",
+      "documentKinds": [
+        "answers",
+        "criteria"
+      ],
+      "availability": "pdf",
+      "fileUrl": "https://olymp.hse.ru/mirror/pubs/share/1134692621.pdf",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/tasks-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-2025-26-final-11-tasks",
+      "olympiadId": "hse-art-history",
+      "title": "История искусств — задания, 11 класс",
+      "academicYear": "2025/26",
+      "stage": "final",
+      "round": "single",
+      "grades": [
+        11
+      ],
+      "regionIds": [],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "pdf",
+      "fileUrl": "https://olymp.hse.ru/mirror/pubs/share/1134351144.pdf",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/tasks-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-2025-26-final-11-combined",
+      "olympiadId": "hse-art-history",
+      "title": "История искусств — ключи и критерии, 11 класс",
+      "academicYear": "2025/26",
+      "stage": "final",
+      "round": "single",
+      "grades": [
+        11
+      ],
+      "regionIds": [],
+      "kind": "combined",
+      "documentKinds": [
+        "answers",
+        "criteria"
+      ],
+      "availability": "pdf",
+      "fileUrl": "https://olymp.hse.ru/mirror/pubs/share/1135473263.pdf",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/tasks-arthist",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-2024-25-selection-9-tasks",
+      "olympiadId": "hse-art-history",
+      "academicYear": "2024/25",
+      "stage": "selection",
+      "round": "single",
+      "grades": [
+        9
+      ],
+      "regionIds": [],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "unpublished",
+      "reason": "Реальные задания или ключи отбора не опубликованы на проверенных страницах профиля. Демоверсия не заменяет архивный вариант.",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/tasks-arthist",
+        "verifiedOn": "2026-10-30"
+      },
+      "title": "Отборочный этап: официальный файл не найден"
+    },
+    {
+      "id": "hse-art-2024-25-selection-9-combined",
+      "olympiadId": "hse-art-history",
+      "academicYear": "2024/25",
+      "stage": "selection",
+      "round": "single",
+      "grades": [
+        9
+      ],
+      "regionIds": [],
+      "kind": "combined",
+      "documentKinds": [
+        "answers",
+        "criteria"
+      ],
+      "availability": "unpublished",
+      "reason": "Реальные задания или ключи отбора не опубликованы на проверенных страницах профиля. Демоверсия не заменяет архивный вариант.",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/tasks-arthist",
+        "verifiedOn": "2026-10-30"
+      },
+      "title": "Отборочный этап: официальный файл не найден"
+    },
+    {
+      "id": "hse-art-2024-25-selection-10-tasks",
+      "olympiadId": "hse-art-history",
+      "academicYear": "2024/25",
+      "stage": "selection",
+      "round": "single",
+      "grades": [
+        10
+      ],
+      "regionIds": [],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "unpublished",
+      "reason": "Реальные задания или ключи отбора не опубликованы на проверенных страницах профиля. Демоверсия не заменяет архивный вариант.",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/tasks-arthist",
+        "verifiedOn": "2026-10-30"
+      },
+      "title": "Отборочный этап: официальный файл не найден"
+    },
+    {
+      "id": "hse-art-2024-25-selection-10-combined",
+      "olympiadId": "hse-art-history",
+      "academicYear": "2024/25",
+      "stage": "selection",
+      "round": "single",
+      "grades": [
+        10
+      ],
+      "regionIds": [],
+      "kind": "combined",
+      "documentKinds": [
+        "answers",
+        "criteria"
+      ],
+      "availability": "unpublished",
+      "reason": "Реальные задания или ключи отбора не опубликованы на проверенных страницах профиля. Демоверсия не заменяет архивный вариант.",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/tasks-arthist",
+        "verifiedOn": "2026-10-30"
+      },
+      "title": "Отборочный этап: официальный файл не найден"
+    },
+    {
+      "id": "hse-art-2024-25-selection-11-tasks",
+      "olympiadId": "hse-art-history",
+      "academicYear": "2024/25",
+      "stage": "selection",
+      "round": "single",
+      "grades": [
+        11
+      ],
+      "regionIds": [],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "unpublished",
+      "reason": "Реальные задания или ключи отбора не опубликованы на проверенных страницах профиля. Демоверсия не заменяет архивный вариант.",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/tasks-arthist",
+        "verifiedOn": "2026-10-30"
+      },
+      "title": "Отборочный этап: официальный файл не найден"
+    },
+    {
+      "id": "hse-art-2024-25-selection-11-combined",
+      "olympiadId": "hse-art-history",
+      "academicYear": "2024/25",
+      "stage": "selection",
+      "round": "single",
+      "grades": [
+        11
+      ],
+      "regionIds": [],
+      "kind": "combined",
+      "documentKinds": [
+        "answers",
+        "criteria"
+      ],
+      "availability": "unpublished",
+      "reason": "Реальные задания или ключи отбора не опубликованы на проверенных страницах профиля. Демоверсия не заменяет архивный вариант.",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/tasks-arthist",
+        "verifiedOn": "2026-10-30"
+      },
+      "title": "Отборочный этап: официальный файл не найден"
+    },
+    {
+      "id": "hse-art-2025-26-selection-9-tasks",
+      "olympiadId": "hse-art-history",
+      "academicYear": "2025/26",
+      "stage": "selection",
+      "round": "single",
+      "grades": [
+        9
+      ],
+      "regionIds": [],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "unpublished",
+      "reason": "Реальные задания или ключи отбора не опубликованы на проверенных страницах профиля. Демоверсия не заменяет архивный вариант.",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/tasks-arthist",
+        "verifiedOn": "2026-10-30"
+      },
+      "title": "Отборочный этап: официальный файл не найден"
+    },
+    {
+      "id": "hse-art-2025-26-selection-9-combined",
+      "olympiadId": "hse-art-history",
+      "academicYear": "2025/26",
+      "stage": "selection",
+      "round": "single",
+      "grades": [
+        9
+      ],
+      "regionIds": [],
+      "kind": "combined",
+      "documentKinds": [
+        "answers",
+        "criteria"
+      ],
+      "availability": "unpublished",
+      "reason": "Реальные задания или ключи отбора не опубликованы на проверенных страницах профиля. Демоверсия не заменяет архивный вариант.",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/tasks-arthist",
+        "verifiedOn": "2026-10-30"
+      },
+      "title": "Отборочный этап: официальный файл не найден"
+    },
+    {
+      "id": "hse-art-2025-26-selection-10-tasks",
+      "olympiadId": "hse-art-history",
+      "academicYear": "2025/26",
+      "stage": "selection",
+      "round": "single",
+      "grades": [
+        10
+      ],
+      "regionIds": [],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "unpublished",
+      "reason": "Реальные задания или ключи отбора не опубликованы на проверенных страницах профиля. Демоверсия не заменяет архивный вариант.",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/tasks-arthist",
+        "verifiedOn": "2026-10-30"
+      },
+      "title": "Отборочный этап: официальный файл не найден"
+    },
+    {
+      "id": "hse-art-2025-26-selection-10-combined",
+      "olympiadId": "hse-art-history",
+      "academicYear": "2025/26",
+      "stage": "selection",
+      "round": "single",
+      "grades": [
+        10
+      ],
+      "regionIds": [],
+      "kind": "combined",
+      "documentKinds": [
+        "answers",
+        "criteria"
+      ],
+      "availability": "unpublished",
+      "reason": "Реальные задания или ключи отбора не опубликованы на проверенных страницах профиля. Демоверсия не заменяет архивный вариант.",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/tasks-arthist",
+        "verifiedOn": "2026-10-30"
+      },
+      "title": "Отборочный этап: официальный файл не найден"
+    },
+    {
+      "id": "hse-art-2025-26-selection-11-tasks",
+      "olympiadId": "hse-art-history",
+      "academicYear": "2025/26",
+      "stage": "selection",
+      "round": "single",
+      "grades": [
+        11
+      ],
+      "regionIds": [],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "unpublished",
+      "reason": "Реальные задания или ключи отбора не опубликованы на проверенных страницах профиля. Демоверсия не заменяет архивный вариант.",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/tasks-arthist",
+        "verifiedOn": "2026-10-30"
+      },
+      "title": "Отборочный этап: официальный файл не найден"
+    },
+    {
+      "id": "hse-art-2025-26-selection-11-combined",
+      "olympiadId": "hse-art-history",
+      "academicYear": "2025/26",
+      "stage": "selection",
+      "round": "single",
+      "grades": [
+        11
+      ],
+      "regionIds": [],
+      "kind": "combined",
+      "documentKinds": [
+        "answers",
+        "criteria"
+      ],
+      "availability": "unpublished",
+      "reason": "Реальные задания или ключи отбора не опубликованы на проверенных страницах профиля. Демоверсия не заменяет архивный вариант.",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/tasks-arthist",
+        "verifiedOn": "2026-10-30"
+      },
+      "title": "Отборочный этап: официальный файл не найден"
+    },
+    {
+      "id": "vsosh-mo-2025-sch-1",
+      "olympiadId": "vso-art",
+      "title": "Задания и ответы 5-6 классов",
+      "academicYear": "2025/26",
+      "stage": "school",
+      "round": "single",
+      "grades": [
+        5,
+        6
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "combined",
+      "documentKinds": [
+        "tasks",
+        "answers",
+        "criteria"
+      ],
+      "availability": "unavailable",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-sch-2025",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Официальная страница содержит ссылку, но проверка файла завершилась таймаутом. Доступность нужно повторно проверить у организатора."
+    },
+    {
+      "id": "vsosh-mo-2025-sch-2",
+      "olympiadId": "vso-art",
+      "title": "Задания и ответы 7-8 классов",
+      "academicYear": "2025/26",
+      "stage": "school",
+      "round": "single",
+      "grades": [
+        7,
+        8
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "combined",
+      "documentKinds": [
+        "tasks",
+        "answers",
+        "criteria"
+      ],
+      "availability": "unavailable",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-sch-2025",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Официальная страница содержит ссылку, но проверка файла завершилась таймаутом. Доступность нужно повторно проверить у организатора."
+    },
+    {
+      "id": "vsosh-mo-2025-sch-3",
+      "olympiadId": "vso-art",
+      "title": "Задания и ответы 9 класса",
+      "academicYear": "2025/26",
+      "stage": "school",
+      "round": "single",
+      "grades": [
+        9
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "combined",
+      "documentKinds": [
+        "tasks",
+        "answers",
+        "criteria"
+      ],
+      "availability": "unavailable",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-sch-2025",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Официальная страница содержит ссылку, но проверка файла завершилась таймаутом. Доступность нужно повторно проверить у организатора."
+    },
+    {
+      "id": "vsosh-mo-2025-sch-4",
+      "olympiadId": "vso-art",
+      "title": "Задания и ответы 10 класса",
+      "academicYear": "2025/26",
+      "stage": "school",
+      "round": "single",
+      "grades": [
+        10
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "combined",
+      "documentKinds": [
+        "tasks",
+        "answers",
+        "criteria"
+      ],
+      "availability": "unavailable",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-sch-2025",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Официальная страница содержит ссылку, но проверка файла завершилась таймаутом. Доступность нужно повторно проверить у организатора."
+    },
+    {
+      "id": "vsosh-mo-2025-sch-5",
+      "olympiadId": "vso-art",
+      "title": "Задания и ответы 11 класса",
+      "academicYear": "2025/26",
+      "stage": "school",
+      "round": "single",
+      "grades": [
+        11
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "combined",
+      "documentKinds": [
+        "tasks",
+        "answers",
+        "criteria"
+      ],
+      "availability": "unavailable",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-sch-2025",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Официальная страница содержит ссылку, но проверка файла завершилась таймаутом. Доступность нужно повторно проверить у организатора."
+    },
+    {
+      "id": "vsosh-mo-2025-mun-1",
+      "olympiadId": "vso-art",
+      "title": "Задания 7-8 классов",
+      "academicYear": "2025/26",
+      "stage": "municipal",
+      "round": "single",
+      "grades": [
+        7,
+        8
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-mun-2025",
+        "verifiedOn": "2026-10-30"
+      },
+      "fileUrl": "https://reg.storage.yandexcloud.net/public/olymp_tasks/task_3692_1762934012.pdf"
+    },
+    {
+      "id": "vsosh-mo-2025-mun-2",
+      "olympiadId": "vso-art",
+      "title": "Задания 9 класса",
+      "academicYear": "2025/26",
+      "stage": "municipal",
+      "round": "single",
+      "grades": [
+        9
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-mun-2025",
+        "verifiedOn": "2026-10-30"
+      },
+      "fileUrl": "https://reg.storage.yandexcloud.net/public/olymp_tasks/task_3694_1762934142.pdf"
+    },
+    {
+      "id": "vsosh-mo-2025-mun-3",
+      "olympiadId": "vso-art",
+      "title": "Задания 10 класса",
+      "academicYear": "2025/26",
+      "stage": "municipal",
+      "round": "single",
+      "grades": [
+        10
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-mun-2025",
+        "verifiedOn": "2026-10-30"
+      },
+      "fileUrl": "https://reg.storage.yandexcloud.net/public/olymp_tasks/task_3696_1762934179.pdf"
+    },
+    {
+      "id": "vsosh-mo-2025-mun-4",
+      "olympiadId": "vso-art",
+      "title": "Задания 11 класса",
+      "academicYear": "2025/26",
+      "stage": "municipal",
+      "round": "single",
+      "grades": [
+        11
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-mun-2025",
+        "verifiedOn": "2026-10-30"
+      },
+      "fileUrl": "https://reg.storage.yandexcloud.net/public/olymp_tasks/task_3698_1762934219.pdf"
+    },
+    {
+      "id": "vsosh-mo-2025-mun-5",
+      "olympiadId": "vso-art",
+      "title": "Ответы 7-8 классов",
+      "academicYear": "2025/26",
+      "stage": "municipal",
+      "round": "single",
+      "grades": [
+        7,
+        8
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "answers",
+      "documentKinds": [
+        "answers"
+      ],
+      "availability": "pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-mun-2025",
+        "verifiedOn": "2026-10-30"
+      },
+      "fileUrl": "https://reg.storage.yandexcloud.net/public/olymp_tasks/answer_3700_1762934295.pdf"
+    },
+    {
+      "id": "vsosh-mo-2025-mun-6",
+      "olympiadId": "vso-art",
+      "title": "Ответы 9 класса",
+      "academicYear": "2025/26",
+      "stage": "municipal",
+      "round": "single",
+      "grades": [
+        9
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "answers",
+      "documentKinds": [
+        "answers"
+      ],
+      "availability": "pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-mun-2025",
+        "verifiedOn": "2026-10-30"
+      },
+      "fileUrl": "https://reg.storage.yandexcloud.net/public/olymp_tasks/answer_3701_1762934312.pdf"
+    },
+    {
+      "id": "vsosh-mo-2025-mun-7",
+      "olympiadId": "vso-art",
+      "title": "Ответы 10 класса",
+      "academicYear": "2025/26",
+      "stage": "municipal",
+      "round": "single",
+      "grades": [
+        10
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "answers",
+      "documentKinds": [
+        "answers"
+      ],
+      "availability": "pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-mun-2025",
+        "verifiedOn": "2026-10-30"
+      },
+      "fileUrl": "https://reg.storage.yandexcloud.net/public/olymp_tasks/answer_3702_1762934332.pdf"
+    },
+    {
+      "id": "vsosh-mo-2025-mun-8",
+      "olympiadId": "vso-art",
+      "title": "Ответы 11 класса",
+      "academicYear": "2025/26",
+      "stage": "municipal",
+      "round": "single",
+      "grades": [
+        11
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "answers",
+      "documentKinds": [
+        "answers"
+      ],
+      "availability": "pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-mun-2025",
+        "verifiedOn": "2026-10-30"
+      },
+      "fileUrl": "https://reg.storage.yandexcloud.net/public/olymp_tasks/answer_3703_1762934343.pdf"
+    },
+    {
+      "id": "vsosh-mo-2025-mun-9",
+      "olympiadId": "vso-art",
+      "title": "Иллюстрации (7-8)",
+      "academicYear": "2025/26",
+      "stage": "municipal",
+      "round": "single",
+      "grades": [
+        7,
+        8
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "illustrations",
+      "documentKinds": [
+        "illustrations"
+      ],
+      "availability": "pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-mun-2025",
+        "verifiedOn": "2026-10-30"
+      },
+      "fileUrl": "https://reg.storage.yandexcloud.net/public/olymp_tasks/file_3693_1762934091.pdf"
+    },
+    {
+      "id": "vsosh-mo-2025-mun-10",
+      "olympiadId": "vso-art",
+      "title": "Иллюстрации (9)",
+      "academicYear": "2025/26",
+      "stage": "municipal",
+      "round": "single",
+      "grades": [
+        9
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "illustrations",
+      "documentKinds": [
+        "illustrations"
+      ],
+      "availability": "pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-mun-2025",
+        "verifiedOn": "2026-10-30"
+      },
+      "fileUrl": "https://reg.storage.yandexcloud.net/public/olymp_tasks/file_3695_1762934163.pdf"
+    },
+    {
+      "id": "vsosh-mo-2025-mun-11",
+      "olympiadId": "vso-art",
+      "title": "Иллюстрации (10)",
+      "academicYear": "2025/26",
+      "stage": "municipal",
+      "round": "single",
+      "grades": [
+        10
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "illustrations",
+      "documentKinds": [
+        "illustrations"
+      ],
+      "availability": "pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-mun-2025",
+        "verifiedOn": "2026-10-30"
+      },
+      "fileUrl": "https://reg.storage.yandexcloud.net/public/olymp_tasks/file_3697_1762934206.pdf"
+    },
+    {
+      "id": "vsosh-mo-2025-mun-12",
+      "olympiadId": "vso-art",
+      "title": "Иллюстрации (11)",
+      "academicYear": "2025/26",
+      "stage": "municipal",
+      "round": "single",
+      "grades": [
+        11
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "illustrations",
+      "documentKinds": [
+        "illustrations"
+      ],
+      "availability": "pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-mun-2025",
+        "verifiedOn": "2026-10-30"
+      },
+      "fileUrl": "https://reg.storage.yandexcloud.net/public/olymp_tasks/file_3699_1762934243.pdf"
+    },
+    {
+      "id": "vsosh-mo-2024-sch-1",
+      "olympiadId": "vso-art",
+      "title": "Задания 5-6 классы",
+      "academicYear": "2024/25",
+      "stage": "school",
+      "round": "single",
+      "grades": [
+        5,
+        6
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "unavailable",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-sch-2024",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Официальная страница содержит ссылку, но проверка файла завершилась таймаутом. Доступность нужно повторно проверить у организатора."
+    },
+    {
+      "id": "vsosh-mo-2024-sch-2",
+      "olympiadId": "vso-art",
+      "title": "Задания 10 класс",
+      "academicYear": "2024/25",
+      "stage": "school",
+      "round": "single",
+      "grades": [
+        10
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "unavailable",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-sch-2024",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Официальная страница содержит ссылку, но проверка файла завершилась таймаутом. Доступность нужно повторно проверить у организатора."
+    },
+    {
+      "id": "vsosh-mo-2024-sch-3",
+      "olympiadId": "vso-art",
+      "title": "Задания 11 класс",
+      "academicYear": "2024/25",
+      "stage": "school",
+      "round": "single",
+      "grades": [
+        11
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "unavailable",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-sch-2024",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Официальная страница содержит ссылку, но проверка файла завершилась таймаутом. Доступность нужно повторно проверить у организатора."
+    },
+    {
+      "id": "vsosh-mo-2024-sch-4",
+      "olympiadId": "vso-art",
+      "title": "Задания 7-8 класс",
+      "academicYear": "2024/25",
+      "stage": "school",
+      "round": "single",
+      "grades": [
+        7,
+        8
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-sch-2024",
+        "verifiedOn": "2026-10-30"
+      },
+      "fileUrl": "https://reg.storage.yandexcloud.net/public/olymp_tasks/tasks_235_1732001663.pdf"
+    },
+    {
+      "id": "vsosh-mo-2024-sch-5",
+      "olympiadId": "vso-art",
+      "title": "Задания 9 класс",
+      "academicYear": "2024/25",
+      "stage": "school",
+      "round": "single",
+      "grades": [
+        9
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-sch-2024",
+        "verifiedOn": "2026-10-30"
+      },
+      "fileUrl": "https://reg.storage.yandexcloud.net/public/olymp_tasks/tasks_235_1732001686.pdf"
+    },
+    {
+      "id": "vsosh-mo-2024-mun-1",
+      "olympiadId": "vso-art",
+      "title": "Задания 7-8 класс",
+      "academicYear": "2024/25",
+      "stage": "municipal",
+      "round": "single",
+      "grades": [
+        7,
+        8
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-mun-2024",
+        "verifiedOn": "2026-10-30"
+      },
+      "fileUrl": "https://reg.storage.yandexcloud.net/public/olymp_tasks/tasks_223_1731185073.pdf"
+    },
+    {
+      "id": "vsosh-mo-2024-mun-2",
+      "olympiadId": "vso-art",
+      "title": "Задания 9 класс",
+      "academicYear": "2024/25",
+      "stage": "municipal",
+      "round": "single",
+      "grades": [
+        9
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-mun-2024",
+        "verifiedOn": "2026-10-30"
+      },
+      "fileUrl": "https://reg.storage.yandexcloud.net/public/olymp_tasks/tasks_223_1731185098.pdf"
+    },
+    {
+      "id": "vsosh-mo-2024-mun-3",
+      "olympiadId": "vso-art",
+      "title": "Задания 10 класс",
+      "academicYear": "2024/25",
+      "stage": "municipal",
+      "round": "single",
+      "grades": [
+        10
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-mun-2024",
+        "verifiedOn": "2026-10-30"
+      },
+      "fileUrl": "https://reg.storage.yandexcloud.net/public/olymp_tasks/tasks_223_1731185123.pdf"
+    },
+    {
+      "id": "vsosh-mo-2024-mun-4",
+      "olympiadId": "vso-art",
+      "title": "Задания 11 класс",
+      "academicYear": "2024/25",
+      "stage": "municipal",
+      "round": "single",
+      "grades": [
+        11
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-mun-2024",
+        "verifiedOn": "2026-10-30"
+      },
+      "fileUrl": "https://reg.storage.yandexcloud.net/public/olymp_tasks/tasks_223_1731185141.pdf"
+    },
+    {
+      "id": "vsosh-mo-2024-mun-5",
+      "olympiadId": "vso-art",
+      "title": "Иллюстрации 7-8 класс",
+      "academicYear": "2024/25",
+      "stage": "municipal",
+      "round": "single",
+      "grades": [
+        7,
+        8
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "illustrations",
+      "documentKinds": [
+        "illustrations"
+      ],
+      "availability": "pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-mun-2024",
+        "verifiedOn": "2026-10-30"
+      },
+      "fileUrl": "https://reg.storage.yandexcloud.net/public/olymp_tasks/tasks_223_1731185179.pdf"
+    },
+    {
+      "id": "vsosh-mo-2024-mun-6",
+      "olympiadId": "vso-art",
+      "title": "Иллюстрации 9 класс",
+      "academicYear": "2024/25",
+      "stage": "municipal",
+      "round": "single",
+      "grades": [
+        9
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "illustrations",
+      "documentKinds": [
+        "illustrations"
+      ],
+      "availability": "pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-mun-2024",
+        "verifiedOn": "2026-10-30"
+      },
+      "fileUrl": "https://reg.storage.yandexcloud.net/public/olymp_tasks/tasks_223_1731185200.pdf"
+    },
+    {
+      "id": "vsosh-mo-2024-mun-7",
+      "olympiadId": "vso-art",
+      "title": "Иллюстрации 10 класс",
+      "academicYear": "2024/25",
+      "stage": "municipal",
+      "round": "single",
+      "grades": [
+        10
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "illustrations",
+      "documentKinds": [
+        "illustrations"
+      ],
+      "availability": "pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-mun-2024",
+        "verifiedOn": "2026-10-30"
+      },
+      "fileUrl": "https://reg.storage.yandexcloud.net/public/olymp_tasks/tasks_223_1731185220.pdf"
+    },
+    {
+      "id": "vsosh-mo-2024-mun-8",
+      "olympiadId": "vso-art",
+      "title": "Иллюстрации 11 класс",
+      "academicYear": "2024/25",
+      "stage": "municipal",
+      "round": "single",
+      "grades": [
+        11
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "illustrations",
+      "documentKinds": [
+        "illustrations"
+      ],
+      "availability": "pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-mun-2024",
+        "verifiedOn": "2026-10-30"
+      },
+      "fileUrl": "https://reg.storage.yandexcloud.net/public/olymp_tasks/tasks_223_1731185241.pdf"
+    },
+    {
+      "id": "vsosh-mo-2024-mun-9",
+      "olympiadId": "vso-art",
+      "title": "Ответы 7-8 класс",
+      "academicYear": "2024/25",
+      "stage": "municipal",
+      "round": "single",
+      "grades": [
+        7,
+        8
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "answers",
+      "documentKinds": [
+        "answers"
+      ],
+      "availability": "pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-mun-2024",
+        "verifiedOn": "2026-10-30"
+      },
+      "fileUrl": "https://reg.storage.yandexcloud.net/public/olymp_tasks/ans_223_1731185263.pdf"
+    },
+    {
+      "id": "vsosh-mo-2024-mun-10",
+      "olympiadId": "vso-art",
+      "title": "Ответы 9 класс",
+      "academicYear": "2024/25",
+      "stage": "municipal",
+      "round": "single",
+      "grades": [
+        9
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "answers",
+      "documentKinds": [
+        "answers"
+      ],
+      "availability": "pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-mun-2024",
+        "verifiedOn": "2026-10-30"
+      },
+      "fileUrl": "https://reg.storage.yandexcloud.net/public/olymp_tasks/ans_223_1731185279.pdf"
+    },
+    {
+      "id": "vsosh-mo-2024-mun-11",
+      "olympiadId": "vso-art",
+      "title": "Ответы 10 класс",
+      "academicYear": "2024/25",
+      "stage": "municipal",
+      "round": "single",
+      "grades": [
+        10
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "answers",
+      "documentKinds": [
+        "answers"
+      ],
+      "availability": "pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-mun-2024",
+        "verifiedOn": "2026-10-30"
+      },
+      "fileUrl": "https://reg.storage.yandexcloud.net/public/olymp_tasks/ans_223_1731185295.pdf"
+    },
+    {
+      "id": "vsosh-mo-2024-mun-12",
+      "olympiadId": "vso-art",
+      "title": "Ответы 11 класс",
+      "academicYear": "2024/25",
+      "stage": "municipal",
+      "round": "single",
+      "grades": [
+        11
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "answers",
+      "documentKinds": [
+        "answers"
+      ],
+      "availability": "pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-mun-2024",
+        "verifiedOn": "2026-10-30"
+      },
+      "fileUrl": "https://reg.storage.yandexcloud.net/public/olymp_tasks/ans_223_1731185310.pdf"
+    },
+    {
+      "id": "vsosh-mo-2025-reg-1",
+      "olympiadId": "vso-art",
+      "title": "Задания 9 класса",
+      "academicYear": "2025/26",
+      "stage": "regional",
+      "round": "single",
+      "grades": [
+        9
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-reg-2025",
+        "verifiedOn": "2026-10-30"
+      },
+      "fileUrl": "https://reg.storage.yandexcloud.net/public/olymp_tasks/task_4766_1772345629.pdf"
+    },
+    {
+      "id": "vsosh-mo-2025-reg-2",
+      "olympiadId": "vso-art",
+      "title": "Задания 10 класса",
+      "academicYear": "2025/26",
+      "stage": "regional",
+      "round": "single",
+      "grades": [
+        10
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-reg-2025",
+        "verifiedOn": "2026-10-30"
+      },
+      "fileUrl": "https://reg.storage.yandexcloud.net/public/olymp_tasks/task_4767_1772345641.pdf"
+    },
+    {
+      "id": "vsosh-mo-2025-reg-3",
+      "olympiadId": "vso-art",
+      "title": "Задания 11 класса",
+      "academicYear": "2025/26",
+      "stage": "regional",
+      "round": "single",
+      "grades": [
+        11
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-reg-2025",
+        "verifiedOn": "2026-10-30"
+      },
+      "fileUrl": "https://reg.storage.yandexcloud.net/public/olymp_tasks/task_4768_1772345651.pdf"
+    },
+    {
+      "id": "vsosh-mo-2025-reg-5",
+      "olympiadId": "vso-art",
+      "title": "Критерии 9 класса",
+      "academicYear": "2025/26",
+      "stage": "regional",
+      "round": "single",
+      "grades": [
+        9
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "criteria",
+      "documentKinds": [
+        "criteria"
+      ],
+      "availability": "pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-reg-2025",
+        "verifiedOn": "2026-10-30"
+      },
+      "fileUrl": "https://reg.storage.yandexcloud.net/public/olymp_tasks/criteria_4763_1772345329.pdf"
+    },
+    {
+      "id": "vsosh-mo-2025-reg-6",
+      "olympiadId": "vso-art",
+      "title": "Критерии 10 класса",
+      "academicYear": "2025/26",
+      "stage": "regional",
+      "round": "single",
+      "grades": [
+        10
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "criteria",
+      "documentKinds": [
+        "criteria"
+      ],
+      "availability": "pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-reg-2025",
+        "verifiedOn": "2026-10-30"
+      },
+      "fileUrl": "https://reg.storage.yandexcloud.net/public/olymp_tasks/criteria_4764_1772345354.pdf"
+    },
+    {
+      "id": "vsosh-mo-2025-reg-7",
+      "olympiadId": "vso-art",
+      "title": "Критерии 11 класса",
+      "academicYear": "2025/26",
+      "stage": "regional",
+      "round": "single",
+      "grades": [
+        11
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "criteria",
+      "documentKinds": [
+        "criteria"
+      ],
+      "availability": "pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-reg-2025",
+        "verifiedOn": "2026-10-30"
+      },
+      "fileUrl": "https://reg.storage.yandexcloud.net/public/olymp_tasks/criteria_4765_1772345367.pdf"
+    },
+    {
+      "id": "vsosh-mo-2024-reg-1",
+      "olympiadId": "vso-art",
+      "title": "Задания (9 класс)",
+      "academicYear": "2024/25",
+      "stage": "regional",
+      "round": "single",
+      "grades": [
+        9
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-reg-2024",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-mo-2024-reg-2",
+      "olympiadId": "vso-art",
+      "title": "Задания (10 класс)",
+      "academicYear": "2024/25",
+      "stage": "regional",
+      "round": "single",
+      "grades": [
+        10
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-reg-2024",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-mo-2024-reg-3",
+      "olympiadId": "vso-art",
+      "title": "Задания (11 класс)",
+      "academicYear": "2024/25",
+      "stage": "regional",
+      "round": "single",
+      "grades": [
+        11
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-reg-2024",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-mo-2024-reg-4",
+      "olympiadId": "vso-art",
+      "title": "Диктант (9 класс)",
+      "academicYear": "2024/25",
+      "stage": "regional",
+      "round": "dictation",
+      "grades": [
+        9
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-reg-2024",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-mo-2024-reg-5",
+      "olympiadId": "vso-art",
+      "title": "Диктант (10 класс)",
+      "academicYear": "2024/25",
+      "stage": "regional",
+      "round": "dictation",
+      "grades": [
+        10
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-reg-2024",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-mo-2024-reg-6",
+      "olympiadId": "vso-art",
+      "title": "Диктант (11 класс)",
+      "academicYear": "2024/25",
+      "stage": "regional",
+      "round": "dictation",
+      "grades": [
+        11
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-reg-2024",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-mo-2024-reg-7",
+      "olympiadId": "vso-art",
+      "title": "Иллюстрации (9 класс)",
+      "academicYear": "2024/25",
+      "stage": "regional",
+      "round": "single",
+      "grades": [
+        9
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "illustrations",
+      "documentKinds": [
+        "illustrations"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-reg-2024",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-mo-2024-reg-8",
+      "olympiadId": "vso-art",
+      "title": "Иллюстрации (10 класс)",
+      "academicYear": "2024/25",
+      "stage": "regional",
+      "round": "single",
+      "grades": [
+        10
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "illustrations",
+      "documentKinds": [
+        "illustrations"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-reg-2024",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-mo-2024-reg-9",
+      "olympiadId": "vso-art",
+      "title": "Иллюстрации (11 класс)",
+      "academicYear": "2024/25",
+      "stage": "regional",
+      "round": "single",
+      "grades": [
+        11
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "illustrations",
+      "documentKinds": [
+        "illustrations"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-reg-2024",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-mo-2024-reg-10",
+      "olympiadId": "vso-art",
+      "title": "Ответы (9 класс)",
+      "academicYear": "2024/25",
+      "stage": "regional",
+      "round": "single",
+      "grades": [
+        9
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "answers",
+      "documentKinds": [
+        "answers"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-reg-2024",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-mo-2024-reg-11",
+      "olympiadId": "vso-art",
+      "title": "Ответы (10 класс)",
+      "academicYear": "2024/25",
+      "stage": "regional",
+      "round": "single",
+      "grades": [
+        10
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "answers",
+      "documentKinds": [
+        "answers"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-reg-2024",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-mo-2024-reg-12",
+      "olympiadId": "vso-art",
+      "title": "Ответы (11 класс)",
+      "academicYear": "2024/25",
+      "stage": "regional",
+      "round": "single",
+      "grades": [
+        11
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "answers",
+      "documentKinds": [
+        "answers"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-reg-2024",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-mo-2024-reg-13",
+      "olympiadId": "vso-art",
+      "title": "Критерии (9 класс)",
+      "academicYear": "2024/25",
+      "stage": "regional",
+      "round": "single",
+      "grades": [
+        9
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "criteria",
+      "documentKinds": [
+        "criteria"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-reg-2024",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-mo-2024-reg-14",
+      "olympiadId": "vso-art",
+      "title": "Критерии (10 класс)",
+      "academicYear": "2024/25",
+      "stage": "regional",
+      "round": "single",
+      "grades": [
+        10
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "criteria",
+      "documentKinds": [
+        "criteria"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-reg-2024",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-mo-2024-reg-15",
+      "olympiadId": "vso-art",
+      "title": "Критерии (11 класс)",
+      "academicYear": "2024/25",
+      "stage": "regional",
+      "round": "single",
+      "grades": [
+        11
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "criteria",
+      "documentKinds": [
+        "criteria"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-reg-2024",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-1-pdf-1",
+      "olympiadId": "vso-art",
+      "title": "Диктант 10 класс.pdf",
+      "academicYear": "2024/25",
+      "stage": "regional",
+      "round": "dictation",
+      "grades": [
+        10
+      ],
+      "regionIds": [],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-1-pdf-2",
+      "olympiadId": "vso-art",
+      "title": "Диктант 11 класс.pdf",
+      "academicYear": "2024/25",
+      "stage": "regional",
+      "round": "dictation",
+      "grades": [
+        11
+      ],
+      "regionIds": [],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-1-pdf-3",
+      "olympiadId": "vso-art",
+      "title": "Диктант 9 класс.pdf",
+      "academicYear": "2024/25",
+      "stage": "regional",
+      "round": "dictation",
+      "grades": [
+        9
+      ],
+      "regionIds": [],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-1-pdf-4",
+      "olympiadId": "vso-art",
+      "title": "Задания 10 класс.pdf",
+      "academicYear": "2024/25",
+      "stage": "regional",
+      "round": "single",
+      "grades": [
+        10
+      ],
+      "regionIds": [],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-1-pdf-5",
+      "olympiadId": "vso-art",
+      "title": "Задания 11 класс.pdf",
+      "academicYear": "2024/25",
+      "stage": "regional",
+      "round": "single",
+      "grades": [
+        11
+      ],
+      "regionIds": [],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-1-pdf-6",
+      "olympiadId": "vso-art",
+      "title": "Задания 9 класс.pdf",
+      "academicYear": "2024/25",
+      "stage": "regional",
+      "round": "single",
+      "grades": [
+        9
+      ],
+      "regionIds": [],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-1-pdf-7",
+      "olympiadId": "vso-art",
+      "title": "Иллюстрат ряд 10 класс.pdf",
+      "academicYear": "2024/25",
+      "stage": "regional",
+      "round": "single",
+      "grades": [
+        10
+      ],
+      "regionIds": [],
+      "kind": "illustrations",
+      "documentKinds": [
+        "illustrations"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-1-pdf-8",
+      "olympiadId": "vso-art",
+      "title": "Иллюстрат. ряд 11 класс.pdf",
+      "academicYear": "2024/25",
+      "stage": "regional",
+      "round": "single",
+      "grades": [
+        11
+      ],
+      "regionIds": [],
+      "kind": "illustrations",
+      "documentKinds": [
+        "illustrations"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-1-pdf-9",
+      "olympiadId": "vso-art",
+      "title": "Иллюстрат. ряд 9 класс.pdf",
+      "academicYear": "2024/25",
+      "stage": "regional",
+      "round": "single",
+      "grades": [
+        9
+      ],
+      "regionIds": [],
+      "kind": "illustrations",
+      "documentKinds": [
+        "illustrations"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-1-pdf-10",
+      "olympiadId": "vso-art",
+      "title": "Диктант 10 ответы.pdf",
+      "academicYear": "2024/25",
+      "stage": "regional",
+      "round": "dictation",
+      "grades": [
+        10
+      ],
+      "regionIds": [],
+      "kind": "answers",
+      "documentKinds": [
+        "answers"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-1-pdf-11",
+      "olympiadId": "vso-art",
+      "title": "Диктант 11 ответы.pdf",
+      "academicYear": "2024/25",
+      "stage": "regional",
+      "round": "dictation",
+      "grades": [
+        11
+      ],
+      "regionIds": [],
+      "kind": "answers",
+      "documentKinds": [
+        "answers"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-1-pdf-12",
+      "olympiadId": "vso-art",
+      "title": "Диктант 9 ответы.pdf",
+      "academicYear": "2024/25",
+      "stage": "regional",
+      "round": "dictation",
+      "grades": [
+        9
+      ],
+      "regionIds": [],
+      "kind": "answers",
+      "documentKinds": [
+        "answers"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-1-pdf-13",
+      "olympiadId": "vso-art",
+      "title": "Критерии оценивания 10 класс.pdf",
+      "academicYear": "2024/25",
+      "stage": "regional",
+      "round": "single",
+      "grades": [
+        10
+      ],
+      "regionIds": [],
+      "kind": "criteria",
+      "documentKinds": [
+        "criteria"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-1-pdf-14",
+      "olympiadId": "vso-art",
+      "title": "Критерии оценивания 11 класс.pdf",
+      "academicYear": "2024/25",
+      "stage": "regional",
+      "round": "single",
+      "grades": [
+        11
+      ],
+      "regionIds": [],
+      "kind": "criteria",
+      "documentKinds": [
+        "criteria"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-1-pdf-15",
+      "olympiadId": "vso-art",
+      "title": "Критерии оценивания 9 класс.pdf",
+      "academicYear": "2024/25",
+      "stage": "regional",
+      "round": "single",
+      "grades": [
+        9
+      ],
+      "regionIds": [],
+      "kind": "criteria",
+      "documentKinds": [
+        "criteria"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-2-pdf-1",
+      "olympiadId": "vso-art",
+      "title": "Задания творческий тур 10 класс.pdf",
+      "academicYear": "2024/25",
+      "stage": "final",
+      "round": "creative",
+      "grades": [
+        10
+      ],
+      "regionIds": [],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-2-pdf-2",
+      "olympiadId": "vso-art",
+      "title": "Задания теоретический тур 10 класс.pdf",
+      "academicYear": "2024/25",
+      "stage": "final",
+      "round": "theoretical",
+      "grades": [
+        10
+      ],
+      "regionIds": [],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-2-pdf-3",
+      "olympiadId": "vso-art",
+      "title": "Изобразительный ряд теоретический тур 10 класс.pdf",
+      "academicYear": "2024/25",
+      "stage": "final",
+      "round": "theoretical",
+      "grades": [
+        10
+      ],
+      "regionIds": [],
+      "kind": "illustrations",
+      "documentKinds": [
+        "illustrations"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-2-pdf-4",
+      "olympiadId": "vso-art",
+      "title": "Задания творческий тур 11 класс.pdf",
+      "academicYear": "2024/25",
+      "stage": "final",
+      "round": "creative",
+      "grades": [
+        11
+      ],
+      "regionIds": [],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-2-pdf-5",
+      "olympiadId": "vso-art",
+      "title": "Задания теоретический тур 11 класс.pdf",
+      "academicYear": "2024/25",
+      "stage": "final",
+      "round": "theoretical",
+      "grades": [
+        11
+      ],
+      "regionIds": [],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-2-pdf-6",
+      "olympiadId": "vso-art",
+      "title": "Изобразительный ряд теоретический тур 11 класс.pdf",
+      "academicYear": "2024/25",
+      "stage": "final",
+      "round": "theoretical",
+      "grades": [
+        11
+      ],
+      "regionIds": [],
+      "kind": "illustrations",
+      "documentKinds": [
+        "illustrations"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-2-pdf-7",
+      "olympiadId": "vso-art",
+      "title": "Задания творческий тур 9 класс.pdf",
+      "academicYear": "2024/25",
+      "stage": "final",
+      "round": "creative",
+      "grades": [
+        9
+      ],
+      "regionIds": [],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-2-pdf-8",
+      "olympiadId": "vso-art",
+      "title": "Задания теоретический тур 9 класс.pdf",
+      "academicYear": "2024/25",
+      "stage": "final",
+      "round": "theoretical",
+      "grades": [
+        9
+      ],
+      "regionIds": [],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-2-pdf-9",
+      "olympiadId": "vso-art",
+      "title": "Изобразительный ряд теоретический тур 9 класс.pdf",
+      "academicYear": "2024/25",
+      "stage": "final",
+      "round": "theoretical",
+      "grades": [
+        9
+      ],
+      "regionIds": [],
+      "kind": "illustrations",
+      "documentKinds": [
+        "illustrations"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-2-pdf-10",
+      "olympiadId": "vso-art",
+      "title": "Ключи творческий тур 10 класс.pdf",
+      "academicYear": "2024/25",
+      "stage": "final",
+      "round": "creative",
+      "grades": [
+        10
+      ],
+      "regionIds": [],
+      "kind": "answers",
+      "documentKinds": [
+        "answers"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-2-pdf-11",
+      "olympiadId": "vso-art",
+      "title": "Критерии теоретический тур диктант 10 класс.pdf",
+      "academicYear": "2024/25",
+      "stage": "final",
+      "round": "theoretical",
+      "grades": [
+        10
+      ],
+      "regionIds": [],
+      "kind": "criteria",
+      "documentKinds": [
+        "criteria"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-2-pdf-12",
+      "olympiadId": "vso-art",
+      "title": "Оценочный лист творческий тур 10 класс.pdf",
+      "academicYear": "2024/25",
+      "stage": "final",
+      "round": "creative",
+      "grades": [
+        10
+      ],
+      "regionIds": [],
+      "kind": "criteria",
+      "documentKinds": [
+        "criteria"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-2-pdf-13",
+      "olympiadId": "vso-art",
+      "title": "Ключи теоретический тур 11 класс.pdf",
+      "academicYear": "2024/25",
+      "stage": "final",
+      "round": "theoretical",
+      "grades": [
+        11
+      ],
+      "regionIds": [],
+      "kind": "answers",
+      "documentKinds": [
+        "answers"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-2-pdf-14",
+      "olympiadId": "vso-art",
+      "title": "Оценочный лист творческий тур 11 класс.pdf",
+      "academicYear": "2024/25",
+      "stage": "final",
+      "round": "creative",
+      "grades": [
+        11
+      ],
+      "regionIds": [],
+      "kind": "criteria",
+      "documentKinds": [
+        "criteria"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-2-pdf-15",
+      "olympiadId": "vso-art",
+      "title": "Теоретический тур диктант 11 класс.pdf",
+      "academicYear": "2024/25",
+      "stage": "final",
+      "round": "single",
+      "grades": [
+        11
+      ],
+      "regionIds": [],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-2-pdf-16",
+      "olympiadId": "vso-art",
+      "title": "Ключи теоретический тур 9 класс.pdf",
+      "academicYear": "2024/25",
+      "stage": "final",
+      "round": "theoretical",
+      "grades": [
+        9
+      ],
+      "regionIds": [],
+      "kind": "answers",
+      "documentKinds": [
+        "answers"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-2-pdf-17",
+      "olympiadId": "vso-art",
+      "title": "Критерии теоретический тур диктант 9 класс.pdf",
+      "academicYear": "2024/25",
+      "stage": "final",
+      "round": "theoretical",
+      "grades": [
+        9
+      ],
+      "regionIds": [],
+      "kind": "criteria",
+      "documentKinds": [
+        "criteria"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-2-pdf-18",
+      "olympiadId": "vso-art",
+      "title": "Оценочный лист творческий тур 9 класс.pdf",
+      "academicYear": "2024/25",
+      "stage": "final",
+      "round": "creative",
+      "grades": [
+        9
+      ],
+      "regionIds": [],
+      "kind": "criteria",
+      "documentKinds": [
+        "criteria"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-3-pdf-1",
+      "olympiadId": "vso-art",
+      "title": "РЭ_искусство_10 класс_задания.pdf",
+      "academicYear": "2025/26",
+      "stage": "regional",
+      "round": "single",
+      "grades": [
+        10
+      ],
+      "regionIds": [],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-3-pdf-2",
+      "olympiadId": "vso-art",
+      "title": "РЭ_искусство_11 класс_задания.pdf",
+      "academicYear": "2025/26",
+      "stage": "regional",
+      "round": "single",
+      "grades": [
+        11
+      ],
+      "regionIds": [],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-3-pdf-3",
+      "olympiadId": "vso-art",
+      "title": "РЭ_искусство_9 класс_задания.pdf",
+      "academicYear": "2025/26",
+      "stage": "regional",
+      "round": "single",
+      "grades": [
+        9
+      ],
+      "regionIds": [],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-3-pdf-4",
+      "olympiadId": "vso-art",
+      "title": "РЭ_искусство_10_класс_критерии.pdf",
+      "academicYear": "2025/26",
+      "stage": "regional",
+      "round": "single",
+      "grades": [
+        10
+      ],
+      "regionIds": [],
+      "kind": "criteria",
+      "documentKinds": [
+        "criteria"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-3-pdf-5",
+      "olympiadId": "vso-art",
+      "title": "РЭ_искусство_11_класс_критерии.pdf",
+      "academicYear": "2025/26",
+      "stage": "regional",
+      "round": "single",
+      "grades": [
+        11
+      ],
+      "regionIds": [],
+      "kind": "criteria",
+      "documentKinds": [
+        "criteria"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-3-pdf-6",
+      "olympiadId": "vso-art",
+      "title": "РЭ_искусство_9_класс_критерии.pdf",
+      "academicYear": "2025/26",
+      "stage": "regional",
+      "round": "single",
+      "grades": [
+        9
+      ],
+      "regionIds": [],
+      "kind": "criteria",
+      "documentKinds": [
+        "criteria"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-4-pdf-1",
+      "olympiadId": "vso-art",
+      "title": "10 класс_творческий тур_задания и критерии.pdf",
+      "academicYear": "2025/26",
+      "stage": "final",
+      "round": "creative",
+      "grades": [
+        10
+      ],
+      "regionIds": [],
+      "kind": "combined",
+      "documentKinds": [
+        "tasks",
+        "answers",
+        "criteria"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-4-pdf-2",
+      "olympiadId": "vso-art",
+      "title": "10 класс_теоретический тур_ЗАДАНИЯ.pdf",
+      "academicYear": "2025/26",
+      "stage": "final",
+      "round": "theoretical",
+      "grades": [
+        10
+      ],
+      "regionIds": [],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-4-pdf-3",
+      "olympiadId": "vso-art",
+      "title": "11 класс._творческий тур_задания и критерии.pdf",
+      "academicYear": "2025/26",
+      "stage": "final",
+      "round": "creative",
+      "grades": [
+        11
+      ],
+      "regionIds": [],
+      "kind": "combined",
+      "documentKinds": [
+        "tasks",
+        "answers",
+        "criteria"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-4-pdf-4",
+      "olympiadId": "vso-art",
+      "title": "11 класс_теоретический тур_ЗАДАНИЯ.pdf",
+      "academicYear": "2025/26",
+      "stage": "final",
+      "round": "theoretical",
+      "grades": [
+        11
+      ],
+      "regionIds": [],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-4-pdf-5",
+      "olympiadId": "vso-art",
+      "title": "9 класс_творческий тур_задания и критерии.pdf",
+      "academicYear": "2025/26",
+      "stage": "final",
+      "round": "creative",
+      "grades": [
+        9
+      ],
+      "regionIds": [],
+      "kind": "combined",
+      "documentKinds": [
+        "tasks",
+        "answers",
+        "criteria"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-4-pdf-6",
+      "olympiadId": "vso-art",
+      "title": "9 класс_теоретический тур_ЗАДАНИЯ.pdf",
+      "academicYear": "2025/26",
+      "stage": "final",
+      "round": "theoretical",
+      "grades": [
+        9
+      ],
+      "regionIds": [],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-4-pdf-7",
+      "olympiadId": "vso-art",
+      "title": "10 класс_творческий тур_задания и критерии.pdf",
+      "academicYear": "2025/26",
+      "stage": "final",
+      "round": "creative",
+      "grades": [
+        10
+      ],
+      "regionIds": [],
+      "kind": "combined",
+      "documentKinds": [
+        "tasks",
+        "answers",
+        "criteria"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-4-pdf-8",
+      "olympiadId": "vso-art",
+      "title": "10 класс_теоретический тур_с ответами и критериями.pdf",
+      "academicYear": "2025/26",
+      "stage": "final",
+      "round": "theoretical",
+      "grades": [
+        10
+      ],
+      "regionIds": [],
+      "kind": "answers",
+      "documentKinds": [
+        "answers"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-4-pdf-9",
+      "olympiadId": "vso-art",
+      "title": "11 класс._творческий тур_задания и критерии.pdf",
+      "academicYear": "2025/26",
+      "stage": "final",
+      "round": "creative",
+      "grades": [
+        11
+      ],
+      "regionIds": [],
+      "kind": "combined",
+      "documentKinds": [
+        "tasks",
+        "answers",
+        "criteria"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-4-pdf-10",
+      "olympiadId": "vso-art",
+      "title": "11 класс_теоретический тур_с ответами и критериями.pdf",
+      "academicYear": "2025/26",
+      "stage": "final",
+      "round": "theoretical",
+      "grades": [
+        11
+      ],
+      "regionIds": [],
+      "kind": "answers",
+      "documentKinds": [
+        "answers"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-4-pdf-11",
+      "olympiadId": "vso-art",
+      "title": "9 класс_творческий тур_задания и критерии.pdf",
+      "academicYear": "2025/26",
+      "stage": "final",
+      "round": "creative",
+      "grades": [
+        9
+      ],
+      "regionIds": [],
+      "kind": "combined",
+      "documentKinds": [
+        "tasks",
+        "answers",
+        "criteria"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-national-4-pdf-12",
+      "olympiadId": "vso-art",
+      "title": "9 класс_теоретический тур_с ответами и критериями.pdf",
+      "academicYear": "2025/26",
+      "stage": "final",
+      "round": "theoretical",
+      "grades": [
+        9
+      ],
+      "regionIds": [],
+      "kind": "answers",
+      "documentKinds": [
+        "answers"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-lo-2025-1-1",
+      "olympiadId": "vso-art",
+      "title": "10_задания.pdf",
+      "academicYear": "2025/26",
+      "stage": "municipal",
+      "round": "single",
+      "grades": [
+        10
+      ],
+      "regionIds": [
+        "ru-47"
+      ],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://center-intellect.ru/vsosh/munitsipalnyy-etap/zadaniya-proshlykh-let/",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-lo-2025-1-2",
+      "olympiadId": "vso-art",
+      "title": "11_задания.pdf",
+      "academicYear": "2025/26",
+      "stage": "municipal",
+      "round": "single",
+      "grades": [
+        11
+      ],
+      "regionIds": [
+        "ru-47"
+      ],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://center-intellect.ru/vsosh/munitsipalnyy-etap/zadaniya-proshlykh-let/",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-lo-2025-1-3",
+      "olympiadId": "vso-art",
+      "title": "7-8_задания.pdf",
+      "academicYear": "2025/26",
+      "stage": "municipal",
+      "round": "single",
+      "grades": [
+        7,
+        8
+      ],
+      "regionIds": [
+        "ru-47"
+      ],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://center-intellect.ru/vsosh/munitsipalnyy-etap/zadaniya-proshlykh-let/",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-lo-2025-1-4",
+      "olympiadId": "vso-art",
+      "title": "9_задания.pdf",
+      "academicYear": "2025/26",
+      "stage": "municipal",
+      "round": "single",
+      "grades": [
+        9
+      ],
+      "regionIds": [
+        "ru-47"
+      ],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://center-intellect.ru/vsosh/munitsipalnyy-etap/zadaniya-proshlykh-let/",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-lo-2025-2-1",
+      "olympiadId": "vso-art",
+      "title": "10_критерии.pdf",
+      "academicYear": "2025/26",
+      "stage": "municipal",
+      "round": "single",
+      "grades": [
+        10
+      ],
+      "regionIds": [
+        "ru-47"
+      ],
+      "kind": "criteria",
+      "documentKinds": [
+        "criteria"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://center-intellect.ru/vsosh/munitsipalnyy-etap/zadaniya-proshlykh-let/",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-lo-2025-2-2",
+      "olympiadId": "vso-art",
+      "title": "11_критерии.pdf",
+      "academicYear": "2025/26",
+      "stage": "municipal",
+      "round": "single",
+      "grades": [
+        11
+      ],
+      "regionIds": [
+        "ru-47"
+      ],
+      "kind": "criteria",
+      "documentKinds": [
+        "criteria"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://center-intellect.ru/vsosh/munitsipalnyy-etap/zadaniya-proshlykh-let/",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-lo-2025-2-3",
+      "olympiadId": "vso-art",
+      "title": "7-8_критерии.pdf",
+      "academicYear": "2025/26",
+      "stage": "municipal",
+      "round": "single",
+      "grades": [
+        7,
+        8
+      ],
+      "regionIds": [
+        "ru-47"
+      ],
+      "kind": "criteria",
+      "documentKinds": [
+        "criteria"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://center-intellect.ru/vsosh/munitsipalnyy-etap/zadaniya-proshlykh-let/",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-lo-2025-2-4",
+      "olympiadId": "vso-art",
+      "title": "9_критерии.pdf",
+      "academicYear": "2025/26",
+      "stage": "municipal",
+      "round": "single",
+      "grades": [
+        9
+      ],
+      "regionIds": [
+        "ru-47"
+      ],
+      "kind": "criteria",
+      "documentKinds": [
+        "criteria"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://center-intellect.ru/vsosh/munitsipalnyy-etap/zadaniya-proshlykh-let/",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-lo-2025-3-1",
+      "olympiadId": "vso-art",
+      "title": "10_klass_zadania.pdf",
+      "academicYear": "2025/26",
+      "stage": "school",
+      "round": "single",
+      "grades": [
+        10
+      ],
+      "regionIds": [
+        "ru-47"
+      ],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://center-intellect.ru/vsosh/shkolnyy-etap/zadaniya-proshlykh-let/",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-lo-2025-3-2",
+      "olympiadId": "vso-art",
+      "title": "11_klass_zadania.pdf",
+      "academicYear": "2025/26",
+      "stage": "school",
+      "round": "single",
+      "grades": [
+        11
+      ],
+      "regionIds": [
+        "ru-47"
+      ],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://center-intellect.ru/vsosh/shkolnyy-etap/zadaniya-proshlykh-let/",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-lo-2025-3-3",
+      "olympiadId": "vso-art",
+      "title": "5-6_klass_zadania.pdf",
+      "academicYear": "2025/26",
+      "stage": "school",
+      "round": "single",
+      "grades": [
+        5,
+        6
+      ],
+      "regionIds": [
+        "ru-47"
+      ],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://center-intellect.ru/vsosh/shkolnyy-etap/zadaniya-proshlykh-let/",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-lo-2025-3-4",
+      "olympiadId": "vso-art",
+      "title": "7-8_klass_zadania.pdf",
+      "academicYear": "2025/26",
+      "stage": "school",
+      "round": "single",
+      "grades": [
+        7,
+        8
+      ],
+      "regionIds": [
+        "ru-47"
+      ],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://center-intellect.ru/vsosh/shkolnyy-etap/zadaniya-proshlykh-let/",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-lo-2025-3-5",
+      "olympiadId": "vso-art",
+      "title": "9_klass_zadania.pdf",
+      "academicYear": "2025/26",
+      "stage": "school",
+      "round": "single",
+      "grades": [
+        9
+      ],
+      "regionIds": [
+        "ru-47"
+      ],
+      "kind": "tasks",
+      "documentKinds": [
+        "tasks"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://center-intellect.ru/vsosh/shkolnyy-etap/zadaniya-proshlykh-let/",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-lo-2025-4-1",
+      "olympiadId": "vso-art",
+      "title": "10_klass_kriterii.pdf",
+      "academicYear": "2025/26",
+      "stage": "school",
+      "round": "single",
+      "grades": [
+        10
+      ],
+      "regionIds": [
+        "ru-47"
+      ],
+      "kind": "criteria",
+      "documentKinds": [
+        "criteria"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://center-intellect.ru/vsosh/shkolnyy-etap/zadaniya-proshlykh-let/",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-lo-2025-4-2",
+      "olympiadId": "vso-art",
+      "title": "11_klass_kriterii.pdf",
+      "academicYear": "2025/26",
+      "stage": "school",
+      "round": "single",
+      "grades": [
+        11
+      ],
+      "regionIds": [
+        "ru-47"
+      ],
+      "kind": "criteria",
+      "documentKinds": [
+        "criteria"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://center-intellect.ru/vsosh/shkolnyy-etap/zadaniya-proshlykh-let/",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-lo-2025-4-3",
+      "olympiadId": "vso-art",
+      "title": "5-6_klass_kriterii.pdf",
+      "academicYear": "2025/26",
+      "stage": "school",
+      "round": "single",
+      "grades": [
+        5,
+        6
+      ],
+      "regionIds": [
+        "ru-47"
+      ],
+      "kind": "criteria",
+      "documentKinds": [
+        "criteria"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://center-intellect.ru/vsosh/shkolnyy-etap/zadaniya-proshlykh-let/",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-lo-2025-4-4",
+      "olympiadId": "vso-art",
+      "title": "7-8_klass_kriterii.pdf",
+      "academicYear": "2025/26",
+      "stage": "school",
+      "round": "single",
+      "grades": [
+        7,
+        8
+      ],
+      "regionIds": [
+        "ru-47"
+      ],
+      "kind": "criteria",
+      "documentKinds": [
+        "criteria"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://center-intellect.ru/vsosh/shkolnyy-etap/zadaniya-proshlykh-let/",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vsosh-lo-2025-4-5",
+      "olympiadId": "vso-art",
+      "title": "9_klass_kriterii.pdf",
+      "academicYear": "2025/26",
+      "stage": "school",
+      "round": "single",
+      "grades": [
+        9
+      ],
+      "regionIds": [
+        "ru-47"
+      ],
+      "kind": "criteria",
+      "documentKinds": [
+        "criteria"
+      ],
+      "availability": "non_pdf",
+      "evidence": {
+        "sourceUrl": "https://center-intellect.ru/vsosh/shkolnyy-etap/zadaniya-proshlykh-let/",
+        "verifiedOn": "2026-10-30"
+      },
+      "reason": "Документ опубликован внутри ZIP/7z, облачной папки или в другом формате. Постоянная прямая ссылка на PDF не подтверждена. Открой официальный архив."
+    },
+    {
+      "id": "vso-lo-2024-25-school-gap",
+      "olympiadId": "vso-art",
+      "title": "Школьный этап: архив 7z",
+      "academicYear": "2024/25",
+      "stage": "school",
+      "round": "unknown",
+      "grades": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "regionIds": [
+        "ru-47"
+      ],
+      "kind": "combined",
+      "availability": "non_pdf",
+      "reason": "Официально опубликован архив 7z. Состав вариантов по классам не проверен; прямые PDF не подтверждены.",
+      "evidence": {
+        "sourceUrl": "https://center-intellect.ru/vsosh/shkolnyy-etap/zadaniya-proshlykh-let/",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "vso-vl-2024-25-school-gap",
+      "olympiadId": "vso-art",
+      "title": "Школьный этап: материалы не найдены",
+      "academicYear": "2024/25",
+      "stage": "school",
+      "round": "unknown",
+      "grades": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "regionIds": [
+        "ru-33"
+      ],
+      "kind": "combined",
+      "availability": "unavailable",
+      "reason": "На проверенных страницах областного организатора задания и ключи нужного года не найдены. Это не означает, что они нигде не опубликованы. Проверь своего организатора.",
+      "evidence": {
+        "sourceUrl": "https://viro33.ru/deyatelnost/dopolnitelnoe-obrazovanie-detey/meropriyatiya-dlya-obuchayushchikhsya/arkhiv-2024-2025-uchebnogo-goda.php",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "vso-vl-2025-26-school-gap",
+      "olympiadId": "vso-art",
+      "title": "Школьный этап: материалы не найдены",
+      "academicYear": "2025/26",
+      "stage": "school",
+      "round": "unknown",
+      "grades": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "regionIds": [
+        "ru-33"
+      ],
+      "kind": "combined",
+      "availability": "unavailable",
+      "reason": "На проверенных страницах областного организатора задания и ключи нужного года не найдены. Это не означает, что они нигде не опубликованы. Проверь своего организатора.",
+      "evidence": {
+        "sourceUrl": "https://viro33.ru/deyatelnost/dopolnitelnoe-obrazovanie-detey/meropriyatiya-dlya-obuchayushchikhsya/arkhiv-2025-2026-uchebnogo-goda.php",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "vso-lo-2024-25-municipal-gap",
+      "olympiadId": "vso-art",
+      "title": "Муниципальный этап: архив 7z",
+      "academicYear": "2024/25",
+      "stage": "municipal",
+      "round": "unknown",
+      "grades": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "regionIds": [
+        "ru-47"
+      ],
+      "kind": "combined",
+      "availability": "non_pdf",
+      "reason": "Официально опубликован архив 7z. Состав вариантов по классам не проверен; прямые PDF не подтверждены.",
+      "evidence": {
+        "sourceUrl": "https://center-intellect.ru/vsosh/munitsipalnyy-etap/zadaniya-proshlykh-let/",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "vso-vl-2024-25-municipal-gap",
+      "olympiadId": "vso-art",
+      "title": "Муниципальный этап: материалы не найдены",
+      "academicYear": "2024/25",
+      "stage": "municipal",
+      "round": "unknown",
+      "grades": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "regionIds": [
+        "ru-33"
+      ],
+      "kind": "combined",
+      "availability": "unavailable",
+      "reason": "На проверенных страницах областного организатора задания и ключи нужного года не найдены. Это не означает, что они нигде не опубликованы. Проверь своего организатора.",
+      "evidence": {
+        "sourceUrl": "https://viro33.ru/deyatelnost/dopolnitelnoe-obrazovanie-detey/meropriyatiya-dlya-obuchayushchikhsya/arkhiv-2024-2025-uchebnogo-goda.php",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "vso-vl-2025-26-municipal-gap",
+      "olympiadId": "vso-art",
+      "title": "Муниципальный этап: материалы не найдены",
+      "academicYear": "2025/26",
+      "stage": "municipal",
+      "round": "unknown",
+      "grades": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "regionIds": [
+        "ru-33"
+      ],
+      "kind": "combined",
+      "availability": "unavailable",
+      "reason": "На проверенных страницах областного организатора задания и ключи нужного года не найдены. Это не означает, что они нигде не опубликованы. Проверь своего организатора.",
+      "evidence": {
+        "sourceUrl": "https://viro33.ru/deyatelnost/dopolnitelnoe-obrazovanie-detey/meropriyatiya-dlya-obuchayushchikhsya/arkhiv-2025-2026-uchebnogo-goda.php",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "vso-mo-2024-25-school-5-6-answers-gap",
+      "olympiadId": "vso-art",
+      "title": "Школьный этап: отдельные ключи не найдены",
+      "academicYear": "2024/25",
+      "stage": "school",
+      "round": "single",
+      "grades": [
+        5,
+        6
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "answers",
+      "availability": "unavailable",
+      "reason": "В проверенном архиве опубликованы задания; отдельные ответы/критерии не найдены. Это не утверждение об отсутствии ключей внутри самих заданий или на других официальных страницах.",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-sch-2024",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "vso-mo-2024-25-school-5-6-criteria-gap",
+      "olympiadId": "vso-art",
+      "title": "Школьный этап: отдельные ключи не найдены",
+      "academicYear": "2024/25",
+      "stage": "school",
+      "round": "single",
+      "grades": [
+        5,
+        6
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "criteria",
+      "availability": "unavailable",
+      "reason": "В проверенном архиве опубликованы задания; отдельные ответы/критерии не найдены. Это не утверждение об отсутствии ключей внутри самих заданий или на других официальных страницах.",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-sch-2024",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "vso-mo-2024-25-school-7-8-answers-gap",
+      "olympiadId": "vso-art",
+      "title": "Школьный этап: отдельные ключи не найдены",
+      "academicYear": "2024/25",
+      "stage": "school",
+      "round": "single",
+      "grades": [
+        7,
+        8
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "answers",
+      "availability": "unavailable",
+      "reason": "В проверенном архиве опубликованы задания; отдельные ответы/критерии не найдены. Это не утверждение об отсутствии ключей внутри самих заданий или на других официальных страницах.",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-sch-2024",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "vso-mo-2024-25-school-7-8-criteria-gap",
+      "olympiadId": "vso-art",
+      "title": "Школьный этап: отдельные ключи не найдены",
+      "academicYear": "2024/25",
+      "stage": "school",
+      "round": "single",
+      "grades": [
+        7,
+        8
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "criteria",
+      "availability": "unavailable",
+      "reason": "В проверенном архиве опубликованы задания; отдельные ответы/критерии не найдены. Это не утверждение об отсутствии ключей внутри самих заданий или на других официальных страницах.",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-sch-2024",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "vso-mo-2024-25-school-9-answers-gap",
+      "olympiadId": "vso-art",
+      "title": "Школьный этап: отдельные ключи не найдены",
+      "academicYear": "2024/25",
+      "stage": "school",
+      "round": "single",
+      "grades": [
+        9
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "answers",
+      "availability": "unavailable",
+      "reason": "В проверенном архиве опубликованы задания; отдельные ответы/критерии не найдены. Это не утверждение об отсутствии ключей внутри самих заданий или на других официальных страницах.",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-sch-2024",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "vso-mo-2024-25-school-9-criteria-gap",
+      "olympiadId": "vso-art",
+      "title": "Школьный этап: отдельные ключи не найдены",
+      "academicYear": "2024/25",
+      "stage": "school",
+      "round": "single",
+      "grades": [
+        9
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "criteria",
+      "availability": "unavailable",
+      "reason": "В проверенном архиве опубликованы задания; отдельные ответы/критерии не найдены. Это не утверждение об отсутствии ключей внутри самих заданий или на других официальных страницах.",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-sch-2024",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "vso-mo-2024-25-school-10-answers-gap",
+      "olympiadId": "vso-art",
+      "title": "Школьный этап: отдельные ключи не найдены",
+      "academicYear": "2024/25",
+      "stage": "school",
+      "round": "single",
+      "grades": [
+        10
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "answers",
+      "availability": "unavailable",
+      "reason": "В проверенном архиве опубликованы задания; отдельные ответы/критерии не найдены. Это не утверждение об отсутствии ключей внутри самих заданий или на других официальных страницах.",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-sch-2024",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "vso-mo-2024-25-school-10-criteria-gap",
+      "olympiadId": "vso-art",
+      "title": "Школьный этап: отдельные ключи не найдены",
+      "academicYear": "2024/25",
+      "stage": "school",
+      "round": "single",
+      "grades": [
+        10
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "criteria",
+      "availability": "unavailable",
+      "reason": "В проверенном архиве опубликованы задания; отдельные ответы/критерии не найдены. Это не утверждение об отсутствии ключей внутри самих заданий или на других официальных страницах.",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-sch-2024",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "vso-mo-2024-25-school-11-answers-gap",
+      "olympiadId": "vso-art",
+      "title": "Школьный этап: отдельные ключи не найдены",
+      "academicYear": "2024/25",
+      "stage": "school",
+      "round": "single",
+      "grades": [
+        11
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "answers",
+      "availability": "unavailable",
+      "reason": "В проверенном архиве опубликованы задания; отдельные ответы/критерии не найдены. Это не утверждение об отсутствии ключей внутри самих заданий или на других официальных страницах.",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-sch-2024",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "vso-mo-2024-25-school-11-criteria-gap",
+      "olympiadId": "vso-art",
+      "title": "Школьный этап: отдельные ключи не найдены",
+      "academicYear": "2024/25",
+      "stage": "school",
+      "round": "single",
+      "grades": [
+        11
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "criteria",
+      "availability": "unavailable",
+      "reason": "В проверенном архиве опубликованы задания; отдельные ответы/критерии не найдены. Это не утверждение об отсутствии ключей внутри самих заданий или на других официальных страницах.",
+      "evidence": {
+        "sourceUrl": "https://reg.olympmo.ru/olymp-stage/tasks-vos-sch-2024",
+        "verifiedOn": "2026-10-30"
+      }
+    }
+  ],
+  "events": [
+    {
+      "id": "vsosh-2026-event-1",
+      "olympiadId": "vso-art",
+      "title": "ВсОШ по искусству: школьный этап",
+      "stage": "school",
+      "grades": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "conduct",
+      "timing": "window",
+      "startDate": "2026-09-25",
+      "endDate": "2026-09-26",
+      "scopeNote": "Сроки областного организатора; условия участия проверяй в источнике. В источнике указано местное время 10:00–20:00; часовой пояс не установлен.",
+      "evidence": {
+        "sourceUrl": "https://olympmo.ru/vos-sch-2026-2027.html",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "vsosh-2026-event-2",
+      "olympiadId": "vso-art",
+      "title": "ВсОШ по искусству: муниципальный этап",
+      "stage": "municipal",
+      "grades": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "regionIds": [
+        "ru-50"
+      ],
+      "kind": "conduct",
+      "timing": "confirmed",
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-12",
+      "scopeNote": "Сроки областного организатора; условия участия проверяй в источнике. В источнике указано местное время 14:00; часовой пояс не установлен.",
+      "evidence": {
+        "sourceUrl": "https://olympmo.ru/vos-mun-2026-2027.html",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "vsosh-2026-event-3",
+      "olympiadId": "vso-art",
+      "title": "ВсОШ по искусству: школьный этап",
+      "stage": "school",
+      "grades": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "regionIds": [
+        "ru-47"
+      ],
+      "kind": "conduct",
+      "timing": "confirmed",
+      "startDate": "2026-09-25",
+      "endDate": "2026-09-25",
+      "scopeNote": "Сроки областного организатора; условия участия проверяй в источнике.",
+      "evidence": {
+        "sourceUrl": "https://center-intellect.ru/vsosh/shkolnyy-etap/grafik-provedeniya-shkolnogo-etapa/",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "vsosh-2026-event-4",
+      "olympiadId": "vso-art",
+      "title": "ВсОШ по искусству: муниципальный этап",
+      "stage": "municipal",
+      "grades": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "regionIds": [
+        "ru-47"
+      ],
+      "kind": "conduct",
+      "timing": "confirmed",
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-12",
+      "scopeNote": "Сроки областного организатора; условия участия проверяй в источнике.",
+      "evidence": {
+        "sourceUrl": "https://center-intellect.ru/vsosh/munitsipalnyy-etap/grafik-provedeniya-munitsipalnogo-etapa/",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "vsosh-2026-event-5",
+      "olympiadId": "vso-art",
+      "title": "ВсОШ по искусству: школьный этап",
+      "stage": "school",
+      "grades": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "regionIds": [
+        "ru-33"
+      ],
+      "kind": "conduct",
+      "timing": "confirmed",
+      "startDate": "2026-09-24",
+      "endDate": "2026-09-24",
+      "scopeNote": "Сроки областного организатора; условия участия проверяй в источнике. Проведение на платформе «Сириус.Курсы».",
+      "evidence": {
+        "sourceUrl": "https://viro33.ru/download/prilozhenie__2_k_prikazu_2026_2027.docx",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "vsosh-2026-event-6",
+      "olympiadId": "vso-art",
+      "title": "ВсОШ по искусству: муниципальный этап",
+      "stage": "municipal",
+      "grades": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "regionIds": [
+        "ru-33"
+      ],
+      "kind": "conduct",
+      "timing": "confirmed",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-27",
+      "scopeNote": "Сроки областного организатора; условия участия проверяй в источнике.",
+      "evidence": {
+        "sourceUrl": "https://viro33.ru/download/prilozhenie__2_k_prikazu_2026_2027.docx",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-art-2026-27-selection-2",
+      "olympiadId": "hse-art-history",
+      "title": "История искусств: 2 тур отборочного этапа",
+      "stage": "selection",
+      "grades": [
+        9,
+        10,
+        11
+      ],
+      "regionIds": [],
+      "kind": "conduct",
+      "timing": "confirmed",
+      "startDate": "2026-11-22",
+      "localTime": "09:00",
+      "timeZone": "Europe/Moscow",
+      "scopeNote": "2026/27. Второй тур отбора, 45 минут. Для участников по условиям организатора.",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/timetable1",
+        "verifiedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "hse-2026-27-final-window",
+      "olympiadId": "hse-art-history",
+      "title": "«Высшая проба»: общее окно финала",
+      "stage": "final",
+      "grades": [
+        9,
+        10,
+        11
+      ],
+      "regionIds": [],
+      "kind": "conduct",
+      "timing": "window",
+      "startDate": "2027-02-05",
+      "endDate": "2027-02-15",
+      "scopeNote": "Общее окно олимпиады; точная дата истории искусств не подтверждена. Не отмечать каждый день как день проведения.",
+      "evidence": {
+        "sourceUrl": "https://olymp.hse.ru/mmo/",
+        "verifiedOn": "2026-10-30"
+      }
+    }
+  ],
+  "news": [
+    {
+      "id": "hse-art-2026-27-selection-rule-change",
+      "olympiadId": "hse-art-history",
+      "title": "«Высшая проба» меняет правила",
+      "summary": "НИУ ВШЭ сообщил об изменении отбора в сезоне 2026/27: два онлайн-тура, во втором применяется асинхронный прокторинг. По итогам отбора определяют участников очного финала. Актуальные условия и расписание нужно проверять у организатора.",
+      "publishedOn": "2026-07-13",
+      "regionIds": [],
+      "evidence": {
+        "sourceUrl": "https://www.hse.ru/news/edu/1179081242.html",
+        "verifiedOn": "2026-10-30"
+      }
+    }
+  ],
+  "guidance": [
+    {
+      "id": "choosing-art-olympiad",
+      "title": "Как выбрать олимпиаду по искусству",
+      "body": "### Как выбрать олимпиаду по искусству\n\nНачни с формата, который тебе интересен, и посмотри задания прошлых лет. В Anavasi собраны два направления: ВсОШ по искусству (МХК) и «Высшая проба» по истории искусств. Можно готовиться к обоим, но условия участия и расписание у них разные.\n\n**ВсОШ по искусству (МХК).** Путь состоит из школьного, муниципального, регионального и заключительного этапов. В рекомендациях сезона 2026/27 школьные задания предусмотрены для 5–11 классов, муниципальные — для 7–11; региональные задания — для 9–11. Участие в следующем этапе зависит от официальных условий допуска. Точные сроки школьного и муниципального этапов ищи у своего организатора: дата в другом регионе может тебе не подходить. [Официальные материалы ВсОШ](https://vserosolimp.edsoo.ru/iskusstvo), [рекомендации школьного и муниципального этапов 2026/27](https://vso.edsoo.ru/public.php/dav/files/Mdt8k635qCok4Ad/?accept=zip), [требования регионального этапа](https://vso.edsoo.ru/public.php/dav/files/Y7pLeS4L6yTFwfd/?accept=zip).\n\n**«Высшая проба» по истории искусств.** Основные категории — 9–11 классы. Школьник младшего класса тоже может участвовать, выполняя задания за выбранный класс. В сезоне 2026/27 отборочный этап проходит онлайн в два тура; затем проводится очный заключительный этап. Для отбора нужна предварительная регистрация; во втором туре применяется прокторинг. Проверяй приглашение и технические требования организатора. [Рекомендации по истории искусств 2026/27](https://olymp.hse.ru/mirror/pubs/share/1201096973.pdf), [регламент](https://olymp.hse.ru/mirror/pubs/share/1177293678.pdf), [инструкция участнику](https://olymp.hse.ru/mmo/instr-first/).\n\n**Как готовиться.** Выбери материал своего класса, года и этапа. Сначала попробуй решить задания самостоятельно, затем сравни ход ответа с ключами и критериями. У «Высшей пробы» особое внимание уделяется архитектуре, скульптуре, живописи и графике, историческому контексту и анализу произведений. Практикуй сравнение памятников и аргументированный письменный ответ. Демоверсия показывает формат, но не заменяет реальные задания прошлых лет. [Официальные рекомендации](https://olymp.hse.ru/mirror/pubs/share/1201096973.pdf), [задания и решения](https://olymp.hse.ru/mmo/tasks-arthist).\n\n**Перед участием.** Открой официальный источник и проверь класс, условия допуска, регистрацию, дату, часовой пояс и формат. Для онлайн-отбора «Высшей пробы» нужен компьютер или ноутбук; требования второго тура включают подготовку оборудования для прокторинга. Льготы при поступлении проверяй отдельно по актуальным правилам выбранного вуза. Anavasi помогает найти материалы и расписание; заявку подают у организатора. [Официальная инструкция «Высшей пробы»](https://olymp.hse.ru/mmo/instr-first/), [страница олимпиады](https://olymp.hse.ru/mmo/).",
+      "evidence": [
+        {
+          "sourceUrl": "https://vserosolimp.edsoo.ru/iskusstvo",
+          "verifiedOn": "2026-10-30"
+        },
+        {
+          "sourceUrl": "https://olymp.hse.ru/mmo/official",
+          "verifiedOn": "2026-10-30"
+        },
+        {
+          "sourceUrl": "https://olymp.hse.ru/mirror/pubs/share/1201096973.pdf",
+          "verifiedOn": "2026-10-30"
+        }
+      ]
+    }
+  ]
+}
